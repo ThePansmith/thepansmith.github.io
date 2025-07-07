@@ -6,16 +6,20 @@ theme = ["hugo-notice", "mainroad"]
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # fuck it we ball
 [Params]
   description = "Pansmith" # Description of your site
   opengraph = true
   readmore = true # Show "Read more" button in list if true
   authorbox = true
   pager = true
+  copyright = "Pansmith"
   post_meta = ["author", "date", "categories"] # Order of post meta information
   images = ["img/authors/pansmith.png", "img/content/branding/banner.png"]
-  mainSections = ["news", "blog"]
+  mainSections = ["news", "monifactory monday", "blog"]
 
 [Params.logo]
   image = "img/content/branding/banner.png"
