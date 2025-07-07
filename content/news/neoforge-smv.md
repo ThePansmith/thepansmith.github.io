@@ -6,7 +6,7 @@ categories:
 - News
 author: pansmith
 summary: "A simple proposal on how to end modded Minecraft version chasing with a single step."
-description: "none"
+description: "A simple proposal on how to end modded Minecraft version chasing with a single step."
 ---
 
 According to an ongoing form I've been running, most mod developers would greatly prefer having a stable version to develop their mods over version chasing. The community currently suffers from a general lack of communication on the matter, and while a community effort could happen, involving Neoforge itself in the process would greatly simplify it. 
