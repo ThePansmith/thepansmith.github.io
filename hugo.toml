@@ -40,7 +40,7 @@ theme = ["hugo-notice", "mainroad"]
 
 [[Params.widgets.social.custom]]
   title = "GitHub"
-  url = "https://github.com/pansmith/"
+  url = "https://github.com/thepansmith/"
   icon = "svg/github.svg"
 
 [[Params.widgets.social.custom]]
