@@ -29,7 +29,7 @@ The proposal is simple: The Neoforged team designates a specific Minecraft versi
 
 Neoforge hosts a recurring community vote to determine if the Stable Modding Version (starting with 1.21.1) should be updated and, if so, to which version. This also encourages modders to become more involved with Neoforge's community and voting processes as a whole.
 
-With Neoforge allowing users to submit PRs and backports, *the community can manage the Stable Modding Version*, while the Neoforge team can continue implementing new features and porting to the latest versions as usual.
+With Neoforge allowing users to submit PRs and backports, *the community can manage the Stable Modding Version*, while the Neoforge team can continue implementing new features and porting to the latest versions as usual, while the SMV works a community-led Long Term Support version.
 
 # Benefits 
 ### For Mod Developers
