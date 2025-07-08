@@ -12,7 +12,7 @@ description: "A simple proposal on how to end modded Minecraft version chasing w
 
 According to an ongoing survey I've been conducting, most mod developers strongly prefer having a stable version to develop their mods rather than having to constantly port to the latest version. The community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded community. While a community-driven effort could address this, involving Neoforge directly in the process would make it significantly more streamlined.
 
-The proposal is simple: Neoforge designates a specific Minecraft version as the **Stable Modding Version** (SMV); The exact version would be determined through recurring community votes.
+The proposal is simple: The Neoforged team designates a specific Minecraft version as the **Stable Modding Version** (SMV); The exact version would be determined through recurring community votes.
 
 ## How?
 <!-- 1. Host a community vote every 2-3 years on if the SMV should be changed. 
