@@ -28,14 +28,14 @@ The proposal is simple: The Neoforged team designates a specific Minecraft versi
 |:--:|
 | *It's as simple as that.* |
 
-Neoforge hosts a community vote every 2-3 years to determine if the Stable Modding Version (starting with 1.21.1) should be updated and, if so, to which version. This also encourages modders to become more involved with Neoforge's community and voting processes as a whole.
+Neoforge hosts a recurring community vote to determine if the Stable Modding Version (starting with 1.21.1) should be updated and, if so, to which version. This also encourages modders to become more involved with Neoforge's community and voting processes as a whole.
 
 With Neoforge allowing users to submit PRs and backports, *the community can manage the Stable Modding Version*, while the Neoforge team can continue implementing new features and porting to the latest versions as usual.
 
 ## Benefits 
 - Large mod developers will be able to focus on further developing their mods instead of constantly porting them to new versions.
 - Neoforge can continue to develop new features and port to newer versions, as SMV support would largely be community-managed.
-    - Some modders will still follow individual patches (e.g., optimization mods, client-side mods, and other mods targeted toward vanilla players), ensuring Neoforge will still have testers for newer patches.
+    - Some modders will still follow individual patches (e.g., optimization mods, client-side mods, and other mods targeted toward vanilla players), ensuring Neoforge will still have mod developers on newer versions of minecraft.
     - Mod developers would be more involved with Neoforge in order to cast their votes more accurately.
 - More modders will be willing to port to Neoforge (and modern Minecraft in general), knowing that the porting cycle is no longer an issue.
 - Modders can focus on improving the quality of their mods instead of constantly porting them, leading to higher-quality mods overall.
@@ -48,7 +48,7 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 
 ## Questions and Answers
 
-**Q**: What about players wanting content not available in the current SMV? \
+**Q**: What about players wanting vanilla content that is not available in the current SMV? \
 **A**: Players can be directed to install the [Vanilla Backports](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) mod, which backports said content to 1.21.1 (and will likely do the same for future versions).
 
 **Q**: What about Neoforge just suggesting a version when asked about stability? \
@@ -66,6 +66,9 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 
 **Q**: How would voting work? \
 **A**: The simplest approach would be a [runoff vote](https://en.wikipedia.org/wiki/Runoff_voting) hosted on Neoforge's Discord or another platform.
+
+**Q**: How often would these votes occur? \
+**A**: Once every two years seems ideal. This frequency allows the community to decide whether to update the SMV or keep it unchanged. It strikes a balance between providing flexibility to account for new updates and avoiding discouraging those considering porting their mods or making modpacks.
 
 ---
 ## Supporters:
