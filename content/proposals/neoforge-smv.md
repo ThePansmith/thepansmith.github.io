@@ -10,9 +10,8 @@ description: "A simple proposal on how to end modded Minecraft version chasing w
 ---
 
 {{< notice note >}}
-Mod Developers: There is a [followup survey](https://forms.gle/ec68AdSHvQxVYjcY9) related to the idea of a Stable Modding Version, for both giving feedback and showing support if you wish. With Neoforge's annual question and answer session coming up, this could be a talking point with enough support.
+Mod Developers: There is a [followup survey](https://forms.gle/ec68AdSHvQxVYjcY9) related to the idea of a Stable Modding Version, for both giving feedback and showing support if you wish. With Neoforge's annual question and answer session coming up, this could be a talking point with enough support!
 {{< /notice >}}
-
 
 > "Notably, to avoid version fragmentation, we recommend that modders continue to actively maintain the 1.21.1 version of their mods until the release of Minecraft 1.22!"
 
@@ -38,6 +37,7 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 - More modders may be encouraged to port to Neoforge (and modern Minecraft in general), knowing that the porting cycle is no longer an issue.
 - Allowing a version to mature fosters the creation of modpacks, which in turn drives the development of more mods and encourages new creators to join the modding community.
 - The process is community-driven, while still benefiting from an authoritative voice to guide the community.
+- This does not af
 
 ### For Players and Modpackers
 - A stable modding version means more mods will be available on a single version, rather than being scattered across multiple versions.
