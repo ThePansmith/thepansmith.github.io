@@ -26,7 +26,7 @@ The proposal is simple: The Neoforged team designates a specific Minecraft versi
 
 | ![Stable Modding Version chart](smv-chart.png) |
 |:--:|
-| *It's really as simple as that.* |
+| *It's as simple as that.* |
 
 Neoforge hosts a community vote every 2-3 years to determine if the Stable Modding Version (starting with 1.21.1) should be updated and, if so, to which version. This also encourages modders to become more involved with Neoforge's community and voting processes as a whole.
 
