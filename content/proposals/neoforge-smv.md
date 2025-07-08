@@ -16,7 +16,7 @@ There is a [followup survey](https://forms.gle/ec68AdSHvQxVYjcY9) related to the
 
 > "Notably, to avoid version fragmentation, we recommend that modders continue to actively maintain the 1.21.1 version of their mods until the release of Minecraft 1.22!"
 
-According to an ongoing survey I've been conducting, most mod developers strongly prefer having a stable version to develop their mods rather than having to constantly port to the latest version. The community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded community. While a community-driven effort could address this, involving Neoforge directly in the process would make it significantly more streamlined.
+According to an ongoing survey I've been conducting, most mod developers would strongly prefer having a stable version to develop their mods over constantly porting their mods to the latest version. The community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded community. While a community-driven effort could address this, involving Neoforge directly in the process would make it significantly more streamlined.
 
 The proposal is simple: The Neoforged team designates a specific Minecraft version as the **Stable Modding Version** (SMV); The exact version would be determined through recurring community votes.
 
