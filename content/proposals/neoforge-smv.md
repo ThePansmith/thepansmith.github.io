@@ -10,7 +10,7 @@ description: "A simple proposal on how to end modded Minecraft version chasing w
 ---
 
 {{< notice note >}}
-There is a [followup survey](https://forms.gle/ec68AdSHvQxVYjcY9) related to the idea of a Stable Modding Version, for both giving feedback and showing support if you wish. With Neoforge's annual question and answer session coming up, this could be a talking point with enough support.
+Mod Developers: There is a [followup survey](https://forms.gle/ec68AdSHvQxVYjcY9) related to the idea of a Stable Modding Version, for both giving feedback and showing support if you wish. With Neoforge's annual question and answer session coming up, this could be a talking point with enough support.
 {{< /notice >}}
 
 
@@ -20,7 +20,7 @@ According to an ongoing survey I've been conducting, most mod developers would s
 
 The proposal is simple: The Neoforged team designates a specific Minecraft version as the **Stable Modding Version** (SMV); The exact version would be determined through recurring community votes.
 
-## How?
+# How?
 <!-- 1. Host a community vote every 2-3 years on if the SMV should be changed. 
 2. Done  -->
 
@@ -32,21 +32,30 @@ Neoforge hosts a recurring community vote to determine if the Stable Modding Ver
 
 With Neoforge allowing users to submit PRs and backports, *the community can manage the Stable Modding Version*, while the Neoforge team can continue implementing new features and porting to the latest versions as usual.
 
-## Benefits 
-- Large mod developers will be able to focus on further developing their mods instead of constantly porting them to new versions.
-- Neoforge can continue to develop new features and port to newer versions, as SMV support would largely be community-managed.
-    - Some modders will still follow individual patches (e.g., optimization mods, client-side mods, and other mods targeted toward vanilla players), ensuring Neoforge will still have mod developers on newer versions of minecraft.
-    - Mod developers would be more involved with Neoforge in order to cast their votes more accurately.
-- More modders will be willing to port to Neoforge (and modern Minecraft in general), knowing that the porting cycle is no longer an issue.
-- Modders can focus on improving the quality of their mods instead of constantly porting them, leading to higher-quality mods overall.
-- Allowing a version to mature enables the creation of modpacks, which in turn fosters the development of more mods (and more modders) to meet the needs of those modpacks.
-    - High-quality modpacks can reemerge, addressing the lack of them caused by version chasing.
-- The process is community-controlled while still having an authoritative voice to guide the community.
+# Benefits 
+### For Mod Developers
+- Large mod developers can focus on enhancing their mods instead of constantly porting them to newer versions.
+- More modders may be encouraged to port to Neoforge (and modern Minecraft in general), knowing that the porting cycle is no longer an issue.
+- Allowing a version to mature fosters the creation of modpacks, which in turn drives the development of more mods and encourages new creators to join the modding community.
+- The process is community-driven, while still benefiting from an authoritative voice to guide the community.
+
+### For Players and Modpackers
+- A stable modding version means more mods will be available on a single version, rather than being scattered across multiple versions.
+- Mod developers focusing on improving their mods rather than porting them results in more feature-rich mods.
+- A stable modding version could cause older mods to return
+- A stable modding version allows for high-quality modpacks to return.
+- Feature backports exist, so players can still play with all the vanilla content
+- Vanilla players are not affected by this, as optimization mods, client-side mods, server-side mods, etc will still be updated as normal.
+
+### For the Neoforged Team
+- Neoforge can continue developing new features and porting to newer versions, as SMV support would primarily be community-managed.
+- Some modders will still target individual patches (e.g., optimization mods, client-side mods, and other mods aimed at vanilla players), ensuring Neoforge continues to have testers for newer patches.
+- Mod developers would be more involved with Neoforge in order to cast their votes more accurately.
 - Easy to implement on Neoforge's end, requiring only a recurring vote and a blog post.
 
 ---
 
-## Questions and Answers
+# Questions and Answers
 
 **Q**: What about players wanting vanilla content that is not available in the current SMV? \
 **A**: Players can be directed to install the [Vanilla Backports](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) mod, which backports said content to 1.21.1 (and will likely do the same for future versions).
@@ -71,11 +80,13 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 **A**: Once every two years seems ideal. This frequency allows the community to decide whether to update the SMV or keep it unchanged. It strikes a balance between providing flexibility to account for new updates and avoiding discouraging those considering porting their mods or making modpacks.
 
 ---
-## Supporters:
+# Supporters:
 Like mentioned in the info banner, there is a [form](https://forms.gle/ec68AdSHvQxVYjcY9) for this proposal. Demonstrating to the Neoforge team that the community would support this would greatly improve it's odds of passing.
 
+This list may seem short now, but with your support, we can demonstrate to the Neoforge team that the community would indeed support this. Share this with fellow developers as well, word of mouth goes a long way!
 
-<!-- | Users              |  Mods | Downloads |
-| :---------------- | :------: | :----: |
-| Pansmith       |   Deep Mob Evolution, Steam Additions,   | 1.9M |
-| idk          |   lol   | 3 | -->
+<!-- | Users              |  Mods/Modpacks | 
+| :---------------- | :------: |
+| Samiel Flame       |   Roguelike Adventures and Dungeons Developer |
+| Pansmith       |   Monifactory, CABIN, Deep Mob Evolution   |   -->
+
