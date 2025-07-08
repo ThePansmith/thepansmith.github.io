@@ -37,7 +37,6 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 - More modders may be encouraged to port to Neoforge (and modern Minecraft in general), knowing that the porting cycle is no longer an issue.
 - Allowing a version to mature fosters the creation of modpacks, which in turn drives the development of more mods and encourages new creators to join the modding community.
 - The process is community-driven, while still benefiting from an authoritative voice to guide the community.
-- This does not af
 
 ### For Players and Modpackers
 - A stable modding version means more mods will be available on a single version, rather than being scattered across multiple versions.
