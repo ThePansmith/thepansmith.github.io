@@ -5,8 +5,8 @@ draft: false
 categories:
 - news
 author: pansmith
-summary: "A simple proposal on how to end modded Minecraft version chasing with a single step."
-description: "A simple proposal on how to end modded Minecraft version chasing with a single step."
+summary: "A simple proposal on how to end modded Minecraft version chasing with a single step with the power of neoforge."
+description: "A simple proposal on how to end modded Minecraft version chasing with a single step with the power of neoforge."
 ---
 
 {{< notice note >}}
