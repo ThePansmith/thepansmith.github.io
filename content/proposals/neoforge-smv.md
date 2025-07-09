@@ -19,6 +19,8 @@ According to an ongoing survey I've been conducting, most mod developers would s
 
 The proposal is simple: The Neoforged team designates a specific Minecraft version as the **Stable Modding Version** (SMV); The exact version would be determined through recurring community votes.
 
+
+
 # How?
 <!-- 1. Host a community vote every 2-3 years on if the SMV should be changed. 
 2. Done  -->
@@ -56,11 +58,11 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 
 # Questions and Answers
 
-**Q**: What about players wanting vanilla content that is not available in the current SMV? \
-**A**: Players can be directed to install the [Vanilla Backports](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) mod, which backports said content to 1.21.1 (and will likely do the same for future versions).
+**Q**: Why choose 1.21.1 as the first Stable Modding Version? \
+**A**: In the poll I conducted, a majority of mod developers indicated they would prefer developing on 1.21.1 over 1.20.1 if they could choose the SMV themselves. This can likely be attributed to several factors, such as NeoForge being the most popular loader on 1.21.1 (effectively ending the modloader split) and having better documentation compared to forge 1.20.1. Secondarily, with 1.20.1 not having a proper neoforge version, the proposal would likely be dead on arrival if 1.20.1 were to be choosen. 
 
-**Q**: What about Neoforge just suggesting a version when asked about stability? \
-**A**: Keeping things clearly communicated would both make it clear for mod developers and reduce the frequency of Neoforge developers being asked that question repeatedly, a win-win for everyone.
+**Q**: What about players wanting vanilla content that is not available in the current SMV? \
+**A**: Players can be directed to install the [Vanilla Backports](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) mod, or an equivalent.
 
 **Q**: What if mod developers repeatedly elect to stay on a single version forever? \
 **A**: This is unlikely, as mod developers do appreciate the technical improvements implemented into the game over time. The issue is that no single patch (or even update in some cases) typically justifies the time and effort required to port.
@@ -69,8 +71,8 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 **A**: The Mod developer community will determine the stable modding version via vote. This proposal simply addresses the communication issue, allowing the community to easily vote and communicate with each other, as well as having a resource to point others to. 
 <!-- The last time the community managed to settle on a stable modding version without structured communication was nearly [eight years ago](https://howoldisminecraft1122.today/). -->
 
-**Q**: I'm a mod developer who prefers to keep my mods on the latest patch of Minecraft. How will this affect me? \
-**A**: It won't affect you at all. It is fully expected that some mods, such as optimization mods, client-side mods, and server-side mods, will continue to target the latest patches. This proposal is aimed at giving content modders a unified direction for porting and maintaining their mods.
+**Q**: I'm a mod developer who prefers to keep my mods on the latest patch of Minecraft for vanilla players. How will this affect me? \
+**A**: It won't affect you at all. It is fully expected that some mods, such as optimization mods, client-side mods, and server-side mods, will continue to target the latest patches. This proposal is aimed at giving large mod developers a unified direction for porting and maintaining their mods.
 
 **Q**: How would voting work? \
 **A**: The simplest approach would be a [runoff vote](https://en.wikipedia.org/wiki/Runoff_voting) hosted on Neoforge's Discord or another platform.
@@ -79,13 +81,14 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 **A**: Once every two years seems ideal. This frequency allows the community to decide whether to update the SMV or keep it unchanged. It strikes a balance between providing flexibility to account for new updates and avoiding discouraging those considering porting their mods or making modpacks.
 
 ---
-# Supporters:
-Like mentioned in the info banner, there is a [form](https://forms.gle/ec68AdSHvQxVYjcY9) for this proposal. Demonstrating to the Neoforge team that the community would support this would greatly improve it's odds of passing.
+# Signers:
+Like mentioned in the info banner, there is a [form](https://forms.gle/ec68AdSHvQxVYjcY9) for this proposal. Demonstrating to the Neoforge team that the community would support this would greatly improve it's odds of passing.  Share this with fellow developers as well, word of mouth goes a long way!
 
-This list may seem short now, but with your support, we can demonstrate to the Neoforge team that the community would indeed support this. Share this with fellow developers as well, word of mouth goes a long way!
-
-<!-- | Users              |  Mods/Modpacks | 
+| Developers              |  Notable Mods/Modpacks | 
 | :---------------- | :------: |
+| NewJumper       |   Deeper and Darker, Dense Ores-Abundant  |
 | Samiel Flame       |   Roguelike Adventures and Dungeons Developer |
-| Pansmith       |   Monifactory, CABIN, Deep Mob Evolution   |   -->
+| Swedz       |   Extended Industrialization, MI Tweaks |
+
+A full list can be found [here](https://docs.google.com/spreadsheets/d/1SmSuOfx3LnJ9yvB9q5FeHo_Slp2qMqbcePr0TkpaXDg/edit?usp=sharing).
 
