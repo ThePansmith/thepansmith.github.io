@@ -9,8 +9,8 @@ summary: "A simple proposal on how to end modded Minecraft version chasing with 
 description: "A simple proposal on how to end modded Minecraft version chasing with a single step, with neoforge."
 ---
 
-{{< notice note >}}
-Mod Developers: There is a [followup survey](https://forms.gle/ec68AdSHvQxVYjcY9) related to the idea of a Stable Modding Version, for both giving feedback and showing support if you wish. With Neoforge's annual question and answer session coming up, this could be a talking point with enough support!
+{{< notice warning >}}
+This proposal has been turned down by Neoforge.
 {{< /notice >}}
 
 > "Notably, to avoid version fragmentation, we recommend that modders continue to actively maintain the 1.21.1 version of their mods until the release of Minecraft 1.22!"
