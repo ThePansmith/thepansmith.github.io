@@ -10,12 +10,16 @@ description: "A simple proposal on solving modded Minecraft version chasing with
 ---
 
 {{< notice note >}}
-There is [a discord](https://discord.gg/3gAerCZjrw) for further communication and giving feedback. 
+This proposal is a work in progress, feel free to give feedback in [the server](https://discord.gg/3gAerCZjrw).
+{{< /notice >}}
+
+{{< notice note >}}
+There is [a discord](https://discord.gg/3gAerCZjrw) for further communication and voting.
 {{< /notice >}}
 
 According to an ongoing survey I've been conducting, most mod developers would strongly prefer having a stable version to develop their mods over constantly porting their mods to the latest version. The community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded minecraft community. 
 
-The proposal is simple: The community hosts a recurring developer vote to determine a specific Minecraft version as the **Stable Modding Version** (SMV).
+The proposal is simple: A recurring developer vote is hosted to determine a specific Minecraft version as the **Stable Modding Version** (SMV).
 
 # Details
 
