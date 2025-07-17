@@ -38,6 +38,7 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 - Allowing a version to mature fosters the creation of modpacks, which in turn drives the development of more mods and encourages new mod developers to join the community.
 - Allowing a version to mature also allows for the creation of other helpful tools for modding.
 - A recurring vote allows the developer community to be able to both have version longevity and be able to react to substantial technical improvements in a reasonable time.
+- Mod Developers choosing to keep their mods constantly ported will know what version to target feature backports to.
 - The process is community-driven and provides a unified direction, allowing mod developers to be able work together and communicate with one another, rather than having to guess.
 
 ### For Players and Pack Developers
