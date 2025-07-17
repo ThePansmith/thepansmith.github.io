@@ -9,7 +9,7 @@ summary: "A simple proposal on how to end modded Minecraft version chasing with 
 description: "A simple proposal on how to end modded Minecraft version chasing with a single step, with neoforge."
 ---
 
-{{< notice warning >}}
+{{< notice note >}}
 This proposal has been turned down by Neoforge.
 {{< /notice >}}
 
