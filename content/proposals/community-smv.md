@@ -33,7 +33,7 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 
 # Benefits 
 ### For Mod Developers
-- Mod developers can focus on improving their mods instead of constantly porting them to newer versions.
+- Mod developers can focus on improving their mods or work on new mods instead of having to constantly port them to newer versions.
 - Other modders may be encouraged to port, knowing that the constant porting cycle is no longer an issue.
 - Allowing a version to mature fosters the creation of modpacks, which in turn drives the development of more mods and encourages new mod developers to join the community.
 - Allowing a version to mature also allows for the creation of other helpful tools for modding.
