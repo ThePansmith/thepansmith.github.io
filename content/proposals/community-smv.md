@@ -56,7 +56,7 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 **A**: Players can be directed to install the [Vanilla Backports](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) mod, or an equivalent.
 
 **Q**: What would the first Stable Modding Version be? \
-**A**: A developer vote would be held, but if you want a prediction, in the survey I conducted, a majority of mod developers indicated they would prefer developing on 1.21.1 if they could choose the SMV themselves.
+**A**: A developer vote would be held, but if you want a prediction, in the survey I conducted, a vast majority of mod developers indicated they would prefer developing on Neoforge 1.21.1 if they could choose the SMV themselves.
 <!-- This can likely be attributed to several factors, such as NeoForge being by far the most popular loader on 1.21.1 and having better documentation compared to forge 1.20.1. -->
 
 **Q**: What if mod developers repeatedly elect to stay on a single version forever? \
