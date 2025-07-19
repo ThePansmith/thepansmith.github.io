@@ -73,7 +73,7 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 **A**: This proposal simply addresses the communication issue, allowing the community to easily vote and communicate with each other. This helps both save time and energy by ensuring that mod developers will know what versions to update to and maintain their mods on, rather than having to guess what versions will become populated.
 
 **Q**: How would voting work? \
-**A**: A vote hosted on a Discord or another platform, with a verification process in place to ensure that casted SMV votes are authentic. Disussion channels would also be opened to allow developers to further discuss their thoughts.
+**A**: A vote hosted on a Discord or another platform, with a verification process in place to ensure that casted SMV votes are authentic. Discussion channels would also be opened to allow developers to further discuss their thoughts.
 
 **Q**: How often would these votes occur? \
 **A**: Once every two years seems ideal. This frequency strikes a balance between providing flexibility to account for new updates bringing technical improvements and version longevity.
