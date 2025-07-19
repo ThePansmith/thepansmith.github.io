@@ -5,8 +5,8 @@ draft: false
 categories:
 - news
 author: pansmith
-summary: "A simple proposal on solving modded Minecraft version chasing with a single step."
-description: "A simple proposal on solving modded Minecraft version chasing with a single step."
+summary: "A simple proposal on solving modded Minecraft version chasingp."
+description: "A simple proposal on solving modded Minecraft version chasing."
 ---
 
 {{< notice note >}}
@@ -14,18 +14,18 @@ This proposal is a work in progress, feel free to give feedback in [the server](
 {{< /notice >}}
 
 {{< notice note >}}
-There is [a discord](https://discord.gg/3gAerCZjrw) for further communication and voting.
+There is a new survey related to the modded minecraft community (and this proposal) found [here](https://forms.gle/7V18UmafyWrEkxNZA), fill it out so this proposal can be further finetuned!
 {{< /notice >}}
 
-According to an ongoing survey I've been conducting, most mod developers would strongly prefer having a stable version to develop their mods over constantly porting their mods to the latest version. The community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded minecraft community. 
+According to a survey that I conducted, most mod developers would strongly prefer having a stable version to develop their mods over constantly porting their mods to the latest version. The community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded minecraft community. 
 
-The proposal is simple: A recurring developer vote is hosted to determine a specific Minecraft version as the **Stable Modding Version** (SMV).
+The proposal is simple: A recurring mod developer community vote is hosted to determine a specific Minecraft version as the **Stable Modding Version** (SMV) at any given time.
 
 # Details
 
-| ![Stable Modding Version chart](smv-chart.png) |
+| <img src="smv-chart.svg" height="200" /> |
 |:--:|
-| *The process* |
+| *A flowchart showing the process.* |
 
 A recurring developer vote is hosted to determine if the Stable Modding Version should be updated and, if so, to which version. Longterm Mod development is then focused on said version, allowing the version to mature. Users would need to be verified before being able to vote, to ensure that the Stable Modding Version vote remains developer focused.
 
@@ -66,14 +66,20 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 **Q**: I'm a mod developer who prefers to keep my mods on the latest patch of Minecraft for vanilla players. How will this affect me? \
 **A**: It won't affect you at all. It is fully expected that some mods, such as optimization mods, client-side mods, and server-side mods, will continue to target the latest patches. This proposal is aimed at giving large mod developers a unified direction for porting and maintaining their mods.
 
+**Q**: I'm a mod developer who prefers to keep my mods updated more frequently. How would this affect me? \
+**A**: Like with the vanilla targeted developers, it won't negatively affect your ability to mod. Rather, this will benefit you as well, as you will know what versions the modded community at large considers the stable modding version, and thus will be able to know which version to target feature backports to. This proposal is aimed at giving large mod developers a unified direction for porting *and maintaining* their mods.
+
+**Q**: Why can't mod developers just figure it out themselves? Why would a developer community vote be needed? \
+**A**: This proposal simply addresses the communication issue, allowing the community to easily vote and communicate with each other. This helps both save time and energy by ensuring that mod developers will know what versions to update to and maintain their mods on, rather than having to guess what versions will become populated.
+
 **Q**: How would voting work? \
-**A**: A vote hosted on a Discord or another platform, with a verification process in place to ensure that casted SMV votes are authentic. Disussion channels would also be opened to allow developers to further discuss their thoughts.
+**A**: The vote would be hosted on a Discord or another platform (possibly Curseforge itself?), with a verification process in place to ensure that casted SMV votes are authentic. Discussion channels would also be opened to allow developers to further discuss their thoughts. 
 
 **Q**: How often would these votes occur? \
-**A**: Once every two years seems ideal. This frequency strikes a balance between providing flexibility to account for new updates bringing technical improvements and version longevity.
+**A**: Once every two years seems idea, with the vote occuring the following year if a version is voted to be extended. This frequency strikes a balance between providing flexibility to account for new updates bringing technical improvements and version longevity.
 
 **Q**: How would the mod developers be made aware of this proposal? \
-**A**: Initally, word of mouth will be the best option. Curseforge staff have stated that they would consider supporting and promoting the project if they think is viable.  
+**A**: Initally, word of mouth will be the best option. Curseforge staff have stated that they would consider supporting and promoting the project if they think is it viable. (I have not heard back from the Modrinth lead yet)
 To quote a conversion I had with Ryan Robson, CurseForge's Creator Relations Manager:
  > I can share any potential community-led projects you are working on with our team and we can support if it's something we think is viable 🙂
 
