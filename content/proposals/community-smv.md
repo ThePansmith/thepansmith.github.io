@@ -66,8 +66,11 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 **Q**: I'm a mod developer who prefers to keep my mods on the latest patch of Minecraft for vanilla players. How will this affect me? \
 **A**: It won't affect you at all. It is fully expected that some mods, such as optimization mods, client-side mods, and server-side mods, will continue to target the latest patches. This proposal is aimed at giving large mod developers a unified direction for porting and maintaining their mods.
 
+**Q**: I'm a mod developer who would like keep my mods updated more frequently. How would this affect me? \
+**A**: Like with the vanilla targeted developers, it won't negatively affect your ability to mod. Rather, this will benefit you as well, as you will know what versions the modded community at large considers the stable modding version, and thus will be able to know which version to target feature backports to. This proposal is aimed at giving large mod developers a unified direction for porting *and maintaining* their mods.
+
 **Q**: Why can't mod developers just figure it out themselves? Why would a developer community vote be needed? \
-**A**: This proposal simply addresses the communication issue, allowing the community to easily vote and communicate with each other. This helps both save time and energy by ensuring that mod developers will know what versions to maintain their mods on, rather than having to guess what versions will become populated.
+**A**: This proposal simply addresses the communication issue, allowing the community to easily vote and communicate with each other. This helps both save time and energy by ensuring that mod developers will know what versions to update to and maintain their mods on, rather than having to guess what versions will become populated.
 
 **Q**: How would voting work? \
 **A**: A vote hosted on a Discord or another platform, with a verification process in place to ensure that casted SMV votes are authentic. Disussion channels would also be opened to allow developers to further discuss their thoughts.
