@@ -14,7 +14,7 @@ This proposal is a work in progress, feel free to give feedback in [the server](
 {{< /notice >}}
 
 {{< notice note >}}
-There is a new survey related to the modded minecraft community (and this proposal) found [here](https://forms.gle/7V18UmafyWrEkxNZA), fill it out 
+There is a new survey related to the modded minecraft community (and this proposal) found [here](https://forms.gle/7V18UmafyWrEkxNZA), fill it out so this proposal can be further finetuned!
 {{< /notice >}}
 
 According to an ongoing survey I've been conducting, most mod developers would strongly prefer having a stable version to develop their mods over constantly porting their mods to the latest version. The community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded minecraft community. 
