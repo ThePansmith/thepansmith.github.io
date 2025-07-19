@@ -5,21 +5,21 @@ draft: false
 categories:
 - news
 author: pansmith
-summary: "A simple proposal on solving modded Minecraft version chasing with a single step."
-description: "A simple proposal on solving modded Minecraft version chasing with a single step."
+summary: "A simple proposal on solving modded Minecraft version chasingp."
+description: "A simple proposal on solving modded Minecraft version chasing."
 ---
 
 {{< notice note >}}
-This proposal is a work in progress, feel free to give feedback in [the server](https://discord.gg/3gAerCZjrw).
+This proposal is a work in progress, feel free to give feedback in [the server](https://discord.gg/3gAerCZjrw), which is also where community votes will be held.
 {{< /notice >}}
 
 {{< notice note >}}
-There is [a discord](https://discord.gg/3gAerCZjrw) for further communication and voting.
+There is a new survey related to the modded minecraft community (and this proposal) found [here](https://forms.gle/7V18UmafyWrEkxNZA), fill it out 
 {{< /notice >}}
 
 According to an ongoing survey I've been conducting, most mod developers would strongly prefer having a stable version to develop their mods over constantly porting their mods to the latest version. The community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded minecraft community. 
 
-The proposal is simple: A recurring developer vote is hosted to determine a specific Minecraft version as the **Stable Modding Version** (SMV).
+The proposal is simple: A recurring mod developer community vote is hosted to determine a specific Minecraft version as the **Stable Modding Version** (SMV) at any given time.
 
 # Details
 
