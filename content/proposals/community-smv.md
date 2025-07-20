@@ -5,8 +5,8 @@ draft: false
 categories:
 - news
 author: pansmith
-summary: "A simple proposal on solving modded Minecraft version chasing."
-description: "A simple proposal on solving modded Minecraft version chasing."
+summary: "A simple proposal on bringing the modded community together."
+description: "A simple proposal on bringing the modded community together."
 ---
 
 {{< notice note >}}
