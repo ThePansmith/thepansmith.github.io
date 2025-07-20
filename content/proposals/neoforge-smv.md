@@ -1,7 +1,7 @@
 ---
 title: "Neoforge Stable Modding Version Proposal"
 date: 2025-07-06T20:04:20-05:00
-draft: false
+draft: true
 categories:
 - news
 author: pansmith
