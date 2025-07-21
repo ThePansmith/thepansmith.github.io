@@ -19,7 +19,7 @@ There is a new survey related to the modded minecraft community (and this propos
 
 According to a survey that I conducted, most content mod developers  would strongly prefer having a stable version to develop their mods over constantly porting their mods to the latest version. The community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded minecraft community. 
 
-The proposal is simple: A recurring mod developer community vote is hosted to determine a specific Minecraft version as the **Stable Modding Version** (SMV) at any given time. This would be useful for mod developers that develop feature rich (and this time consuming to port) mods.
+The proposal is simple: A recurring mod developer community vote is hosted to determine a specific Minecraft version as the **Stable Modding Version** (SMV) at any given time. This would be useful for mod developers that develop feature rich (and this time consuming to port and maintain) mods, while still allowing the community to be able to adapt to technical improvements.
 
 
 # Details
@@ -46,7 +46,6 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 - A stable modding version means more mods will be available on a single version, rather than being scattered across multiple versions.
 - Mod developers being able to focus on improving their mods rather than having to constantly port them results in more feature-rich mods.
 - A stable modding version allows for high-quality modpacks to develop.
-- Having a stable modding verison could encourage some developers to port their older mods to that version.
 - Feature backports exist, so players can still play with all of the vanilla content if they wish.
 - Vanilla players are not affected by this, as optimization mods, client-side mods, server-side mods, etc would not be affected by this.
 
@@ -58,11 +57,10 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 **A**: Players can be directed to install the [Vanilla Backports](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) mod, or an equivalent.
 
 **Q**: What would the first Stable Modding Version be? \
-**A**: A developer vote would be held, but if you want a prediction, in the survey I conducted, a vast majority of mod developers indicated they would prefer developing on Neoforge 1.21.1 if they could choose the SMV themselves.
-<!-- This can likely be attributed to several factors, such as NeoForge being by far the most popular loader on 1.21.1 and having better documentation compared to forge 1.20.1. -->
+**A**: A developer vote would be held, but if you want a prediction, in the previous survey I conducted, a majority of mod developers indicated they would prefer developing on Neoforge 1.21.1 if they could choose the SMV themselves.
 
 **Q**: What if mod developers repeatedly elect to stay on a single version forever? \
-**A**: This is unlikely, as mod developers do appreciate the technical improvements implemented into the game over time. The issue is that no single patch (or even update in some cases) typically justifies the time and effort required to port.
+**A**: This is unlikely, as mod developers do appreciate the technical improvements implemented into the game over time. The issue is that no single patch (or even update in some cases) typically justifies the time and effort required to port. 
 
 **Q**: I'm a mod developer who prefers to keep my mods on the latest patch of Minecraft for vanilla players. How will this affect me? \
 **A**: It won't affect you at all. It is fully expected that some mods, such as optimization mods, client-side mods, and server-side mods, will continue to target the latest patches. This proposal is aimed at giving large mod developers a unified direction for porting and maintaining their mods.
@@ -77,10 +75,10 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 **A**: The vote would be hosted on a Discord or another platform (possibly Curseforge itself?), with a verification process in place to ensure that casted SMV votes are authentic. Discussion channels would also be opened to allow developers to further discuss their thoughts. 
 
 **Q**: How often would these votes occur? \
-**A**: Once every two years seems ideal, with the vote occuring the following year if a version is voted to be extended. This frequency strikes a balance between providing flexibility to account for new updates bringing technical improvements and version longevity.
+**A**: Once every two years seems ideal, with the vote occuring the following year if a version is voted to be extended. This frequency strikes a balance between providing flexibility to account for new updates bringing technical improvements and version longevity. If you think otherwise, mention it in the feedback form!
 
 **Q**: How would the mod developers be made aware of this proposal? \
-**A**: Initally, word of mouth will be the best option. Curseforge staff have stated that they would consider supporting and promoting the project if they think is it viable. (I have not heard back from the Modrinth lead yet)
+**A**: Initally, word of mouth will be the best option. Curseforge staff have stated that they would consider supporting and promoting the project if they think is it viable. Beyond that, other large organizations could help spread the word.
 To quote a conversion I had with Ryan Robson, CurseForge's Creator Relations Manager:
  > I can share any potential community-led projects you are working on with our team and we can support if it's something we think is viable 🙂
 
