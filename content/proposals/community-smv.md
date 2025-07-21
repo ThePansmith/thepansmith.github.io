@@ -17,9 +17,10 @@ This proposal is a work in progress, feel free to give feedback in the [Cursefor
 There is a new survey related to the modded minecraft community (and this proposal) found [here](https://forms.gle/7V18UmafyWrEkxNZA), fill it out so this proposal can be further refined!
 {{< /notice >}}
 
-According to a survey that I conducted, most mod developers would strongly prefer having a stable version to develop their mods over constantly porting their mods to the latest version. The community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded minecraft community. 
+According to a survey that I conducted, most content mod developers  would strongly prefer having a stable version to develop their mods over constantly porting their mods to the latest version. The community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded minecraft community. 
 
-The proposal is simple: A recurring mod developer community vote is hosted to determine a specific Minecraft version as the **Stable Modding Version** (SMV) at any given time.
+The proposal is simple: A recurring mod developer community vote is hosted to determine a specific Minecraft version as the **Stable Modding Version** (SMV) at any given time. This would be useful for mod developers that develop feature rich (and this time consuming to port) mods.
+
 
 # Details
 
