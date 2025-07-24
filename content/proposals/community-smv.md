@@ -75,7 +75,7 @@ With Neoforge allowing users to submit PRs and backports, *the community can man
 **A**: The vote would be hosted on a Discord or another platform (possibly Curseforge itself?), with a verification process in place to ensure that casted SMV votes are authentic. Discussion channels would also be opened to allow developers to further discuss their thoughts. 
 
 **Q**: How often would these votes occur? \
-**A**: Once every two years seems ideal, with the vote occuring the following year if a version is voted to be extended. This frequency strikes a balance between providing flexibility to account for new updates bringing technical improvements and version longevity. If you think otherwise, mention it in the feedback form!
+**A**: Once every seems ideal. This frequency strikes a balance between providing flexibility to account for new updates bringing technical improvements and version longevity. If you think otherwise, mention it in the feedback form!
 
 **Q**: How would the mod developers be made aware of this proposal? \
 **A**: Initally, word of mouth will be the best option. Curseforge staff have stated that they would consider supporting and promoting the project if they think is it viable. Beyond that, other large organizations could help spread the word.
