@@ -1,10 +1,10 @@
 title = "Pansmith's Cookbook"
 
 [params.author]
-name = "Pansmith"
+name = "Pansmith's Cookbook"
 image = "img/pansmith.png"
-headline = "You likely know me better from elsewhere"
-bio = "You likely know me better from elsewhere"
+headline = "A place for the everything else."
+bio = "You likely know me better from elsewhere."
 links = [
   { github = "https://github.com/thepansmith" }
 ]

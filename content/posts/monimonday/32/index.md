@@ -1,7 +1,7 @@
 ---
 title: "Monifactory Monday #32 - Sculk Vatting"
 date: 2025-07-07
-draft: false
+draft: true
 showAuthor: false
 authors:
       - pansmith
