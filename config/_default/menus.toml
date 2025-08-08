@@ -1,0 +1,12 @@
+# config/_default/menus.toml
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  pre = "github"
+  name = "GitHub"
+  url = "https://github.com/thepansmith"
+  weight = 30

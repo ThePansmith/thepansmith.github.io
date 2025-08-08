@@ -1,0 +1,8 @@
+{
+    "name": "Pansmith",
+    "image": "/img/authors/pansmith.png",
+    "bio": "You likely know me better from elsewhere.",
+    "social": [
+        { "github": "https://github.com/thepansmith" }
+    ]
+}

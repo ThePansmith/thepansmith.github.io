@@ -1,0 +1,10 @@
+title = "Pansmith's Cookbook"
+
+[params.author]
+name = "Pansmith"
+image = "img/pansmith.png"
+headline = "You likely know me better from elsewhere"
+bio = "You likely know me better from elsewhere"
+links = [
+  { github = "https://github.com/thepansmith" }
+]
