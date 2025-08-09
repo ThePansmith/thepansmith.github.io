@@ -6,8 +6,8 @@ showAuthor: false
 authors:
       - buuz135
       - pansmith  
-summary: "A simple proposal on bringing the modded minecraft community together."
-description: "A simple proposal on bringing the modded minecraft community together."
+summary: "A simple proposal on mod porting, for developers by developers. Now signable!"
+description: "A simple proposal on mod porting, for developers by developers. Now signable!"
 tags: ["proposal"]
 ---
 
@@ -43,8 +43,8 @@ A recurring developer vote is hosted to determine if the Stable Modding Version 
 - Mod developers can focus on improving their mods or work on new mods (or just live life!) instead of having to constantly port their mods to newer versions.
 - Allowing a version to mature also allows for the creation of other helpful tools for modding.
 - A recurring vote allows for being able to both have version longevity and be able to react to substantial technical improvements in a reasonable time.
-- Mod Developers choosing to constantly port will know what version to target feature backports to, and can continue to port as they wish.
-- A more stable scene could encourge new users to join the scene
+- Mod Developers that choose to port beyond will know what version the modded community at large considers to be stable, and can target feature backports to without needing to guess. (A good point made by P3pp3rf1y, the Sophisticated Storage developer) 
+- A more stable scene could encourge new users to join the scene.
 - The process is community-driven and provides a unified direction, allowing mod developers to be able work together and communicate with one another, rather than having to guess how other developers might act.
 
 ### For Players and Pack Developers
@@ -52,7 +52,7 @@ A recurring developer vote is hosted to determine if the Stable Modding Version 
 - Allowing a version to mature fosters the creation of modpacks, which in turn drives the development of more mods and encourages new mod developers to join the community.
 - Mod developers being able to focus on improving their mods rather than having to constantly port them results in more feature-rich mods.
 - A stable modding version allows for high-quality modpacks to develop.
-- Feature backports exist, so players can still play with all of the vanilla content if they wish.
+- Feature backport mods allow players to be able to play with both newer vanilla content and their mods if they wish.
 - Vanilla players are not affected by this, as optimization mods, client-side mods, server-side mods, etc would not be affected by this.
 
 
@@ -62,7 +62,7 @@ A recurring developer vote is hosted to determine if the Stable Modding Version 
 **A**: Players can be directed to install the [Vanilla Backports](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) mod, or an equivalent.
 
 **Q**: What would the first COLTS be? \
-**A**: A developer vote would be held, but if you want a prediction, in the previous survey I conducted, a majority of mod developers indicated they would prefer developing on Neoforge 1.21.1 if they could choose the COLTS themselves.
+**A**: A developer vote would be held, but if you want a prediction, in a previous survey I conducted, a majority of mod developers indicated they would prefer developing on Neoforge 1.21.1 if they could choose the COLTS themselves.
 
 **Q**: What if mod developers repeatedly elect to stay on a single version forever? \
 **A**: This is extremely unlikely, as mod developers do appreciate the technical improvements implemented into the game over time. The issue is that no single patch (or even update in some cases) typically justifies the time and effort required to port. 
@@ -98,3 +98,6 @@ So, spread the word, and show your support [on the form](https://forms.gle/fxZJ9
 **A**: Curseforge does not have an incentive to push mod developers to the latest version on the game. To quote Ryan again:
 > We have no monetary incentive to push the latest version, and a big part of our platform is continuing to support some older versions and the modpacks they support. Part of the reason we may sometimes (i.e. in contests) push for higher versions is because the modding support is improved (such as better datapack support) on these versions, but overall we have no preference on which versions users create or play content on.
 </details>
+
+## Supporting
+If you agree with this proposal, sign [the form](https://forms.gle/fxZJ9EhCopfLh8nU6). While mod developer signatures are the most important (due it being focused on mod developers), it's also important to denonstate that everyone in the community would agree that this would be beneficial to the modded community. With enough support, it might be possible to have the votes be held through curseforge itself, greatly streamlining the voting process.
