@@ -3,6 +3,8 @@
     "image": "/img/authors/pansmith.png",
     "bio": "You likely know me better from elsewhere.",
     "social": [
-        { "github": "https://github.com/thepansmith" }
+        { "fire": "https://www.curseforge.com/members/pansmith/" },
+        { "github": "https://github.com/thepansmith" },
+        { "youtube": "https://www.youtube.com/@ThePansmith"}
     ]
 }

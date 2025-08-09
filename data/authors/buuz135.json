@@ -3,6 +3,7 @@
     "image": "/img/authors/buuz135.png",
     "bio": "Author of various well known mods, including Industrial Foregoing, Functional Storage, FindMe and others.",
     "social": [
+        { "fire": "https://www.curseforge.com/members/buuz135/" },
         { "github": "https://github.com/buuz135" }
     ]
 }
