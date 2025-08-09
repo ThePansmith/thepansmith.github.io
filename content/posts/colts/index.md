@@ -18,9 +18,9 @@ Too long? Consider taking a look at the [short version](https://youtube.com/shor
 <!-- This proposal is a work in progress, feel free to give feedback in the [Curseforge Developer Discord](https://discord.gg/RFVz2TvRKc).
 There is a new survey related to the modded minecraft community (and this proposal) found [here](https://forms.gle/7V18UmafyWrEkxNZA), fill it out so this proposal can be further refined! -->
 {{< alert "edit" >}}
-**If you support this proposal, feel free to sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6)!** There are sections for mod developers, pack developers and players, as this would benefit the scene as a whole, so let your voice be heard! With enough mod developer support, it might be possible to have the votes be held through curseforge itself.
+**If you support this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6)!** There are sections for mod developers, pack developers and players, as this would benefit the scene as a whole, so let your voice be heard! *With enough mod developer support, it might be possible to have the votes be held through curseforge itself.*
 
-The mod developer survey [is still up](https://forms.gle/7V18UmafyWrEkxNZA), if you wish to give feedback.
+The mod developer survey [is still up](https://forms.gle/7V18UmafyWrEkxNZA), if you wish to contribute.
 {{< /alert >}}
 
 
@@ -41,14 +41,15 @@ A recurring developer vote is hosted to determine if the Stable Modding Version 
 ## Benefits 
 ### For Mod Developers
 - Mod developers can focus on improving their mods or work on new mods (or just live life!) instead of having to constantly port their mods to newer versions.
-- Allowing a version to mature fosters the creation of modpacks, which in turn drives the development of more mods and encourages new mod developers to join the community.
 - Allowing a version to mature also allows for the creation of other helpful tools for modding.
 - A recurring vote allows for being able to both have version longevity and be able to react to substantial technical improvements in a reasonable time.
-- Mod Developers choosing to constaltly port will know what version to target feature backports to, and can continue to port as they wish.
+- Mod Developers choosing to constantly port will know what version to target feature backports to, and can continue to port as they wish.
+- A more stable scene could encourge new users to join the scene
 - The process is community-driven and provides a unified direction, allowing mod developers to be able work together and communicate with one another, rather than having to guess how other developers might act.
 
 ### For Players and Pack Developers
 - A stable modding version means more mods will be available on a single version, rather than being scattered across multiple versions.
+- Allowing a version to mature fosters the creation of modpacks, which in turn drives the development of more mods and encourages new mod developers to join the community.
 - Mod developers being able to focus on improving their mods rather than having to constantly port them results in more feature-rich mods.
 - A stable modding version allows for high-quality modpacks to develop.
 - Feature backports exist, so players can still play with all of the vanilla content if they wish.
