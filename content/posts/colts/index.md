@@ -100,4 +100,4 @@ So, spread the word, and show your support [on the form](https://forms.gle/fxZJ9
 </details>
 
 ## Supporting
-If you agree with this proposal, sign [the form](https://forms.gle/fxZJ9EhCopfLh8nU6). While mod developer signatures are the most important (due it being focused on mod developers), it's also important to denonstate that everyone in the community would agree that this would be beneficial to the modded community. With enough support, it might be possible to have the votes be held through curseforge itself, greatly streamlining the voting process.
+If you agree with this proposal, sign [the form](https://forms.gle/fxZJ9EhCopfLh8nU6). While mod developer signatures are the most important, it's also important to demonstrate that everyone in the community would agree that this would be beneficial to the modded community. With enough support, it might be possible to have the votes be held through curseforge itself, greatly streamlining the voting process.
