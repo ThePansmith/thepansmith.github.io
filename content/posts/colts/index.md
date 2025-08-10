@@ -61,6 +61,9 @@ A recurring developer vote is hosted to determine if the Stable Modding Version 
 **Q**: What about players wanting vanilla content that is not available on the COLTS? \
 **A**: Players can be directed to install the [Vanilla Backports](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) mod, or an equivalent.
 
+**Q**: What about some players asking about mod ports? \
+**A**: This is primarily caused by players simply not being aware of the time and energy investment required, and would likely be understanding once they learn of that (along with the aforementioned backport mods). If voting is to be handled by curseforge, they could directly address this in a variety of ways if they wished, from informational videos to notices on the comment box.
+
 **Q**: What would the first COLTS be? \
 **A**: A developer vote would be held, but if you want a prediction, in a previous survey I conducted, a majority of mod developers indicated they would prefer developing on Neoforge 1.21.1 if they could choose the COLTS themselves.
 
@@ -79,7 +82,7 @@ A recurring developer vote is hosted to determine if the Stable Modding Version 
 
 ### Regarding Voting
 **Q**: How would voting work? \
-**A**: The vote would be hosted on a Discord, Curseforge or another platform, with a verification process in place to ensure that casted SMV votes are authentic. Discussion channels would also be opened to allow developers to further discuss their thoughts. 
+**A**: The vote would be hosted on a Discord, Curseforge or another platform, with a verification process in place to ensure that casted COLTS votes are authentic. Discussion channels would also be opened to allow developers to further discuss their thoughts. 
 
 **Q**: How often would these votes occur? \
 **A**: Once every year seems ideal. This frequency strikes a balance between providing flexibility to account for new updates bringing technical improvements and version longevity.
@@ -100,4 +103,26 @@ So, spread the word, and show your support [on the form](https://forms.gle/fxZJ9
 </details>
 
 ## Supporting
-If you agree with this proposal, sign [the form](https://forms.gle/fxZJ9EhCopfLh8nU6) and share this proposal with others. While mod developer signatures are the most important, it's also important to demonstrate that everyone in the community would agree that this would be beneficial to the modded community. With enough support, it might be possible to have the votes be held through curseforge itself, greatly streamlining the voting process.
+If you agree with this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6) and share this proposal with others. While mod developer signatures are the most important, it's also important to demonstrate that everyone in the community would agree that this would be beneficial to the modded community. With enough support, it might be possible to have the votes be held through curseforge itself, greatly streamlining the voting process.
+
+
+Some of the mods whose authors support this proposal include:
+{{< gallery >}}    
+    <img src="https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg" class="grid-w33" />    
+    <img src="https://media.forgecdn.net/avatars/thumbnails/156/655/256/256/636640433174784536.png" class="grid-w33" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png" class="grid-w33" />  
+    <img src="https://media.forgecdn.net/avatars/thumbnails/471/410/256/256/637759678200851079.jpeg" class="grid-w33" />  
+    <img src="https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png" class="grid-w33" />  
+    <img src="https://media.forgecdn.net/avatars/thumbnails/6/770/256/256/635368290959736289.png" class="grid-w33" />    
+    <img src="https://media.forgecdn.net/avatars/thumbnails/560/68/256/256/637910636688514454.png" class="grid-w33" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/545/351/256/256/637878590194850929.png" class="grid-w33" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/282/25/256/256/637287701215436754.png" class="grid-w33" />  
+    <img src="https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png" class="grid-w33" />    
+    <img src="https://media.forgecdn.net/avatars/thumbnails/9/144/256/256/635421614078544069.png" class="grid-w33" />    
+    <img src="https://media.forgecdn.net/avatars/thumbnails/873/146/256/256/638292841976596089.png" class="grid-w33" />    
+    <img src="https://media.forgecdn.net/avatars/thumbnails/559/9/256/256/637907966393947503.png" class="grid-w33" />         
+    <img src="https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png" class="grid-w33" />       
+    <img src="https://media.forgecdn.net/avatars/thumbnails/506/233/256/256/637824423557821613.png" class="grid-w33" />         
+    <img src="https://media.forgecdn.net/avatars/thumbnails/149/484/256/256/636589738152406559.png" class="grid-w33" />  
+{{< /gallery >}}
+...along with many others!
