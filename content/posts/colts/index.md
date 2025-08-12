@@ -123,7 +123,6 @@ Some of the mods whose authors support this proposal include:
     <img src="https://media.forgecdn.net/avatars/thumbnails/554/210/256/256/637896029495149356_animated.gif" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png" class="grid-w25" /> 
     <img src="https://media.forgecdn.net/avatars/thumbnails/873/146/256/256/638292841976596089.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/559/9/256/256/637907966393947503.png" class="grid-w25" />       
     <img src="https://media.forgecdn.net/avatars/thumbnails/727/100/256/256/638080208599452100.png" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/506/233/256/256/637824423557821613.png" class="grid-w25" />      
     <img src="https://media.forgecdn.net/avatars/thumbnails/149/484/256/256/636589738152406559.png" class="grid-w25" />
