@@ -65,7 +65,7 @@ A recurring developer vote is hosted to determine if the Stable Modding Version 
 **A**: This is primarily caused by players simply not being aware of the time and energy investment required, and would likely be understanding once they learn of that (along with the aforementioned backport mods). If voting is to be handled by curseforge, they could directly address this in a variety of ways if they wished, from informational videos to notices on the comment box.
 
 **Q**: What would the first COLTS be? \
-**A**: A developer vote would be held, but if you want a prediction, in a previous survey I conducted, a majority of mod developers indicated they would prefer developing on Neoforge 1.21.1 if they could choose the COLTS themselves.
+**A**: A developer vote would be held like normal, but if you want a prediction, in a previous survey I conducted, a majority of mod developers indicated they would prefer developing on Neoforge 1.21.1 if they could choose the COLTS themselves.
 
 **Q**: What if mod developers repeatedly elect to stay on a single version forever? \
 **A**: This is extremely unlikely, as mod developers do appreciate the technical improvements implemented into the game over time. The issue is that no single patch (or even update in some cases) typically justifies the time and effort required to port. 
@@ -126,5 +126,11 @@ Some of the mods whose authors support this proposal include:
     <img src="https://media.forgecdn.net/avatars/thumbnails/727/100/256/256/638080208599452100.png" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/506/233/256/256/637824423557821613.png" class="grid-w25" />      
     <img src="https://media.forgecdn.net/avatars/thumbnails/149/484/256/256/636589738152406559.png" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/585/40/256/256/637951547018412998.png" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/926/113/256/256/638395492014972184.png" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/304/710/256/256/637378126956149226.png" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/301/521/256/256/637362853343975956.png" class="grid-w25" />
+    <img src="http://media.forgecdn.net/avatars/thumbnails/310/100/256/256/637397525971155231.png" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/329/439/256/256/637454990556407279.png" class="grid-w25" />
 {{< /gallery >}}
 ...along with many others!
