@@ -128,7 +128,7 @@ Some of the mods whose authors support this proposal include:
     <img src="https://media.forgecdn.net/avatars/thumbnails/149/484/256/256/636589738152406559.png" title="FindMe" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/585/40/256/256/637951547018412998.png" title="Better Climbing" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/926/113/256/256/638395492014972184.png" title="Mod 18" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/304/710/256/256/637378126956149226.png" title="Ears" class="grid-w25" />
+    <!-- <img src="https://media.forgecdn.net/avatars/thumbnails/304/710/256/256/637378126956149226.png" title="Ears" class="grid-w25" /> -->
     <img src="https://media.forgecdn.net/avatars/thumbnails/301/521/256/256/637362853343975956.png" title="Guns without Roses" class="grid-w25" />
     <img src="http://media.forgecdn.net/avatars/thumbnails/310/100/256/256/637397525971155231.png" title="Meet your fight" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/329/439/256/256/637454990556407279.png" title="Forgery" class="grid-w25" /> 
