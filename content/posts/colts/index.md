@@ -15,10 +15,9 @@ tags: ["proposal"]
 Too long? Consider taking a look at the [short version](https://youtube.com/shorts/zPUz4kC_BuA).
 {{< /alert >}}
 <br>
-<!-- This proposal is a work in progress, feel free to give feedback in the [Curseforge Developer Discord](https://discord.gg/RFVz2TvRKc).
-There is a new survey related to the modded minecraft community (and this proposal) found [here](https://forms.gle/7V18UmafyWrEkxNZA), fill it out so this proposal can be further refined! -->
+
 {{< alert "edit" >}}
-**If you support this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6)!** There are sections for mod developers, pack developers and players, as this would benefit the scene as a whole, so let your voice be heard! *With enough mod developer support, it might be possible to have the votes be held through curseforge itself.*
+**If you support this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6)!** There are sections for mod developers, pack developers and players, as this would benefit the scene as a whole, so let your voice be heard! *With enough mod developer support, it might be possible to have the votes be held through curseforge itself which would greatly streamline the process.*
 
 The mod developer survey [is still up](https://forms.gle/7V18UmafyWrEkxNZA), if you wish to contribute.
 {{< /alert >}}
@@ -103,35 +102,36 @@ So, spread the word, and show your support [on the form](https://forms.gle/fxZJ9
 </details>
 
 ## Supporting
-If you agree with this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6) and share this proposal with others. While mod developer signatures are the most important, it's also important to demonstrate that everyone in the community would agree that this would be beneficial to the modded community. With enough support, it might be possible to have the votes be held through curseforge itself, greatly streamlining the voting process.
+If you agree with this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6) and share this proposal with others. While mod developer signatures are the most important, it's also important to demonstrate that everyone in the community would agree that this would be beneficial to the modded community. With enough support, it might be possible to have the votes be held through curseforge itself, greatly streamlining the voting process. If you would prefer to have it be hosted by a third party instead, mention it in your vote.
 
 
 Some of the mods whose authors support this proposal include:
 {{< gallery >}}    
-    <img src="https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/358/166/256/256/637518566737953306_animated.gif" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png" class="grid-w25" />     
-    <img src="https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/554/210/256/256/637896029495149356_animated.gif" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/156/655/256/256/636640433174784536.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/9/144/256/256/635421614078544069.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/6/770/256/256/635368290959736289.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/471/410/256/256/637759678200851079.jpeg" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/560/68/256/256/637910636688514454.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/545/351/256/256/637878590194850929.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/282/25/256/256/637287701215436754.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png" class="grid-w25" /> 
-    <img src="https://media.forgecdn.net/avatars/thumbnails/873/146/256/256/638292841976596089.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/727/100/256/256/638080208599452100.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/506/233/256/256/637824423557821613.png" class="grid-w25" />      
-    <img src="https://media.forgecdn.net/avatars/thumbnails/149/484/256/256/636589738152406559.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/585/40/256/256/637951547018412998.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/926/113/256/256/638395492014972184.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/304/710/256/256/637378126956149226.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/301/521/256/256/637362853343975956.png" class="grid-w25" />
-    <img src="http://media.forgecdn.net/avatars/thumbnails/310/100/256/256/637397525971155231.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/329/439/256/256/637454990556407279.png" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg" title="Just Enough Items" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png" title="KubeJS" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/358/166/256/256/637518566737953306_animated.gif" title="Supplementaries" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png" title="Sophisticated Backpacks" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png" title="Farmer's Delight" class="grid-w25" />     
+    <img src="https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png" title="Modernfix" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/554/210/256/256/637896029495149356_animated.gif" title="Every Compat (Wood Good)" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/156/655/256/256/636640433174784536.png" title="Industrial Foregoing" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/9/144/256/256/635421614078544069.png" title="Journeymap" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/6/770/256/256/635368290959736289.png" title="EnderIO" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/471/410/256/256/637759678200851079.jpeg" title="Functional Storage" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/560/68/256/256/637910636688514454.png" title="No Chat Reports" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/545/351/256/256/637878590194850929.png" title="EMI" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/282/25/256/256/637287701215436754.png" title="Roughly Enough Items" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png" title="Sophisticated Barrels" class="grid-w25" /> 
+    <img src="https://media.forgecdn.net/avatars/thumbnails/873/146/256/256/638292841976596089.png" title="Nuclearcraft: Neoteric" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/727/100/256/256/638080208599452100.png" title="MmmMmmMmmMmm (Target Dummy)" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/506/233/256/256/637824423557821613.png" title="Reliquary Reincarnations" class="grid-w25" />      
+    <img src="https://media.forgecdn.net/avatars/thumbnails/149/484/256/256/636589738152406559.png" title="FindMe" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/585/40/256/256/637951547018412998.png" title="Better Climbing" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/926/113/256/256/638395492014972184.png" title="Mod 18" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/304/710/256/256/637378126956149226.png" title="Ears" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/301/521/256/256/637362853343975956.png" title="Guns without Roses" class="grid-w25" />
+    <img src="http://media.forgecdn.net/avatars/thumbnails/310/100/256/256/637397525971155231.png" title="Meet your fight" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/329/439/256/256/637454990556407279.png" title="Forgery" class="grid-w25" /> 
 {{< /gallery >}}
 ...along with many others!
+
