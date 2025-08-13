@@ -109,18 +109,19 @@ If you agree with this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6
 Some of the mods whose authors support this proposal include:
 {{< gallery >}}    
     <img src="https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/156/655/256/256/636640433174784536.png" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/471/410/256/256/637759678200851079.jpeg" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/358/166/256/256/637518566737953306_animated.gif" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png" class="grid-w25" />     
+    <img src="https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png" class="grid-w25" />     
     <img src="https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/554/210/256/256/637896029495149356_animated.gif" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/156/655/256/256/636640433174784536.png" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/9/144/256/256/635421614078544069.png" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/6/770/256/256/635368290959736289.png" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/471/410/256/256/637759678200851079.jpeg" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/560/68/256/256/637910636688514454.png" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/545/351/256/256/637878590194850929.png" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/282/25/256/256/637287701215436754.png" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/554/210/256/256/637896029495149356_animated.gif" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png" class="grid-w25" /> 
     <img src="https://media.forgecdn.net/avatars/thumbnails/873/146/256/256/638292841976596089.png" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/727/100/256/256/638080208599452100.png" class="grid-w25" />
