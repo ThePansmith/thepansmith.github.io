@@ -11,9 +11,9 @@ description: "A simple proposal on mod porting, for developers by developers. No
 tags: ["proposal"]
 ---
 
-{{< alert icon="tiktok" cardColor="green" >}}
+<!-- {{< alert icon="tiktok" cardColor="green" >}}
 Too long? Consider taking a look at the [short version](https://youtube.com/shorts/zPUz4kC_BuA).
-{{< /alert >}}
+{{< /alert >}} -->
 <br>
 
 {{< alert "edit" >}}
