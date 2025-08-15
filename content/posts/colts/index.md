@@ -110,33 +110,33 @@ If you agree with this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6
 
 Some of the mods whose authors support this proposal include:
 {{< gallery >}}    
-    <img src="https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg" title="Just Enough Items" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png" title="KubeJS" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/358/166/256/256/637518566737953306_animated.gif" title="Supplementaries" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png" title="Sophisticated Backpacks" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png" title="Farmer's Delight" class="grid-w25" />     
-    <img src="https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png" title="Modernfix" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/554/210/256/256/637896029495149356_animated.gif" title="Every Compat (Wood Good)" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/156/655/256/256/636640433174784536.png" title="Industrial Foregoing" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/9/144/256/256/635421614078544069.png" title="Journeymap" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/6/770/256/256/635368290959736289.png" title="EnderIO" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/471/410/256/256/637759678200851079.jpeg" title="Functional Storage" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/560/68/256/256/637910636688514454.png" title="No Chat Reports" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/545/351/256/256/637878590194850929.png" title="EMI" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/282/25/256/256/637287701215436754.png" title="Roughly Enough Items" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png" title="Sophisticated Barrels" class="grid-w25" /> 
-    <img src="https://media.forgecdn.net/avatars/thumbnails/1014/514/256/256/638539820174809228.png" title="Actually Additions" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/177/702/256/256/636773126126869342.png" title="Nature's Aura" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/264/827/256/256/637227651673724138.png" title="Pretty Pipes" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/873/146/256/256/638292841976596089.png" title="Nuclearcraft: Neoteric" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/727/100/256/256/638080208599452100.png" title="MmmMmmMmmMmm (Target Dummy)" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/506/233/256/256/637824423557821613.png" title="Reliquary Reincarnations" class="grid-w25" />      
-    <img src="https://media.forgecdn.net/avatars/thumbnails/149/484/256/256/636589738152406559.png" title="FindMe" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/585/40/256/256/637951547018412998.png" title="Better Climbing" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/926/113/256/256/638395492014972184.png" title="Mod 18" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/301/521/256/256/637362853343975956.png" title="Guns without Roses" class="grid-w25" />
-    <img src="http://media.forgecdn.net/avatars/thumbnails/310/100/256/256/637397525971155231.png" title="Meet your fight" class="grid-w25" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/329/439/256/256/637454990556407279.png" title="Forgery" class="grid-w25" /> 
+    <img src="https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg" title="Just Enough Items" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png" title="KubeJS" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/358/166/256/256/637518566737953306_animated.gif" title="Supplementaries" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png" title="Sophisticated Backpacks" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png" title="Farmer's Delight" class="grid-w20" />     
+    <img src="https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png" title="Modernfix" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/554/210/256/256/637896029495149356_animated.gif" title="Every Compat (Wood Good)" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/156/655/256/256/636640433174784536.png" title="Industrial Foregoing" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/9/144/256/256/635421614078544069.png" title="Journeymap" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/6/770/256/256/635368290959736289.png" title="EnderIO" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/471/410/256/256/637759678200851079.jpeg" title="Functional Storage" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/560/68/256/256/637910636688514454.png" title="No Chat Reports" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/545/351/256/256/637878590194850929.png" title="EMI" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/282/25/256/256/637287701215436754.png" title="Roughly Enough Items" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png" title="Sophisticated Barrels" class="grid-w20" /> 
+    <img src="https://media.forgecdn.net/avatars/thumbnails/1014/514/256/256/638539820174809228.png" title="Actually Additions" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/177/702/256/256/636773126126869342.png" title="Nature's Aura" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/264/827/256/256/637227651673724138.png" title="Pretty Pipes" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/873/146/256/256/638292841976596089.png" title="Nuclearcraft: Neoteric" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/727/100/256/256/638080208599452100.png" title="MmmMmmMmmMmm (Target Dummy)" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/506/233/256/256/637824423557821613.png" title="Reliquary Reincarnations" class="grid-w20" />      
+    <img src="https://media.forgecdn.net/avatars/thumbnails/149/484/256/256/636589738152406559.png" title="FindMe" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/585/40/256/256/637951547018412998.png" title="Better Climbing" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/926/113/256/256/638395492014972184.png" title="Mod 18" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/301/521/256/256/637362853343975956.png" title="Guns without Roses" class="grid-w20" />
+    <img src="http://media.forgecdn.net/avatars/thumbnails/310/100/256/256/637397525971155231.png" title="Meet your fight" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/329/439/256/256/637454990556407279.png" title="Forgery" class="grid-w20" /> 
 {{< /gallery >}}
 ...along with many others!
 
