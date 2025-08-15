@@ -81,10 +81,13 @@ A recurring developer vote is hosted to determine if the Stable Modding Version 
 
 ### Regarding Voting
 **Q**: How would voting work? \
-**A**: The vote would be hosted on a Discord, Curseforge or another platform, with a verification process in place to ensure that casted COLTS votes are authentic. Discussion channels would also be opened to allow developers to further discuss their thoughts. 
+**A**: The vote would be hosted on Curseforge, Discord or another platform, with a verification process in place to ensure that casted COLTS votes are authentic. Discussion channels would also be opened to allow developers to further discuss their thoughts. If you have a platform in specific that you think would work best, feel free to mention it in your vote.
 
 **Q**: How often would these votes occur? \
 **A**: Once every year seems ideal. This frequency strikes a balance between providing flexibility to account for new updates bringing technical improvements and version longevity.
+
+**Q**: How would verification work? \
+**A**: In the case that these votes were to be handled by Curseforge or Modrinth, this could be fairly streamlined, as they would have access to more data and could handle this automatically. In the event these votes are done by a third party, the best option would likely be to keep it simple and check mod downloads on Curseforge/Modrinth. Admittedly, the hard part would be finding a balance between ensuring accounts are legitimate and not unintentionally disenfranchising chunks of the mod developer community.
 
 ### Miscellaneous Questions
 **Q**: How would the mod developers be made aware of this proposal? \
@@ -122,13 +125,15 @@ Some of the mods whose authors support this proposal include:
     <img src="https://media.forgecdn.net/avatars/thumbnails/545/351/256/256/637878590194850929.png" title="EMI" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/282/25/256/256/637287701215436754.png" title="Roughly Enough Items" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/543/206/256/256/637872959580005837.png" title="Sophisticated Barrels" class="grid-w25" /> 
+    <img src="https://media.forgecdn.net/avatars/thumbnails/1014/514/256/256/638539820174809228.png" title="Actually Additions" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/177/702/256/256/636773126126869342.png" title="Nature's Aura" class="grid-w25" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/264/827/256/256/637227651673724138.png" title="Pretty Pipes" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/873/146/256/256/638292841976596089.png" title="Nuclearcraft: Neoteric" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/727/100/256/256/638080208599452100.png" title="MmmMmmMmmMmm (Target Dummy)" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/506/233/256/256/637824423557821613.png" title="Reliquary Reincarnations" class="grid-w25" />      
     <img src="https://media.forgecdn.net/avatars/thumbnails/149/484/256/256/636589738152406559.png" title="FindMe" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/585/40/256/256/637951547018412998.png" title="Better Climbing" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/926/113/256/256/638395492014972184.png" title="Mod 18" class="grid-w25" />
-    <!-- <img src="https://media.forgecdn.net/avatars/thumbnails/304/710/256/256/637378126956149226.png" title="Ears" class="grid-w25" /> -->
     <img src="https://media.forgecdn.net/avatars/thumbnails/301/521/256/256/637362853343975956.png" title="Guns without Roses" class="grid-w25" />
     <img src="http://media.forgecdn.net/avatars/thumbnails/310/100/256/256/637397525971155231.png" title="Meet your fight" class="grid-w25" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/329/439/256/256/637454990556407279.png" title="Forgery" class="grid-w25" /> 
