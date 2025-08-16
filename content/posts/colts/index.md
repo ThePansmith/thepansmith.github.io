@@ -108,7 +108,7 @@ So, spread the word, and show your support [on the form](https://forms.gle/fxZJ9
 If you agree with this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6) and share this proposal with others. While mod developer signatures are the most important, it's also important to demonstrate that everyone in the community would agree that this would be beneficial to the modded community. With enough support, it might be possible to have the votes be held through curseforge itself, greatly streamlining the voting process. If you would prefer to have it be hosted by a third party instead, mention it in your vote.
 
 
-Some of the mods whose owners support this proposal include:
+Some of the mods whose authors/maintainers support this proposal include:
 {{< gallery >}}    
     <img src="https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg" title="Just Enough Items" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png" title="KubeJS" class="grid-w20" />
@@ -117,6 +117,7 @@ Some of the mods whose owners support this proposal include:
     <img src="https://media.forgecdn.net/avatars/thumbnails/396/11/256/256/637595005615179370.png" title="Farmer's Delight" class="grid-w20" />     
     <img src="https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png" title="Modernfix" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/554/210/256/256/637896029495149356_animated.gif" title="Every Compat (Wood Good)" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png" title="Architectury API" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/156/655/256/256/636640433174784536.png" title="Industrial Foregoing" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/9/144/256/256/635421614078544069.png" title="Journeymap" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/6/770/256/256/635368290959736289.png" title="EnderIO" class="grid-w20" />
@@ -128,14 +129,35 @@ Some of the mods whose owners support this proposal include:
     <img src="https://media.forgecdn.net/avatars/thumbnails/1014/514/256/256/638539820174809228.png" title="Actually Additions" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/177/702/256/256/636773126126869342.png" title="Nature's Aura" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/264/827/256/256/637227651673724138.png" title="Pretty Pipes" class="grid-w20" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/873/146/256/256/638292841976596089.png" title="Nuclearcraft: Neoteric" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/727/100/256/256/638080208599452100.png" title="MmmMmmMmmMmm (Target Dummy)" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/506/233/256/256/637824423557821613.png" title="Reliquary Reincarnations" class="grid-w20" />      
     <img src="https://media.forgecdn.net/avatars/thumbnails/149/484/256/256/636589738152406559.png" title="FindMe" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/585/40/256/256/637951547018412998.png" title="Better Climbing" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/926/113/256/256/638395492014972184.png" title="Mod 18" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/301/521/256/256/637362853343975956.png" title="Guns without Roses" class="grid-w20" />
+    <img src="https://media.forgecdn.net/avatars/thumbnails/1112/682/256/256/638665035213140555.png" title="Glassential" class="grid-w20" />
     <img src="http://media.forgecdn.net/avatars/thumbnails/310/100/256/256/637397525971155231.png" title="Meet your fight" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/329/439/256/256/637454990556407279.png" title="Forgery" class="grid-w20" /> 
 {{< /gallery >}}
-...along with many others!
+<details>
+  <summary>Text List:</summary>
+
+* [**Mezz**](https://www.curseforge.com/members/mezz/projects): Author of Just Enough Items, Mod Name Tooltip, Itemzoom, Forestry  
+* [**LatvianModder**](https://www.curseforge.com/members/latvianmodder/projects): Author of KubeJS, Rhino
+* [**P3pp3rF1y**](https://www.curseforge.com/members/P3pp3rF1y/projects): Author of Sophisticated Backpacks, Sophisticated Storage and Reliquary Reincarnations  
+* [**MehVahdJukaar**](https://www.curseforge.com/members/P3pp3rF1y/projects): Author of Supplementaries, EveryCompat, Target Dummy, Map Atlases, Fast Paintings, Model Gap Fix, developer for Supplementaries Squared and Amendments.  
+* [**embeddedt**](https://www.curseforge.com/members/embeddedt/projects): Author of Modernfix (and its ports), developer for Lootr  
+* [**vectorwing**](https://www.curseforge.com/members/vectorwing/projects): Author of Farmer's Delight and Soft Weather.  
+* [**Buuz135**](https://www.curseforge.com/members/buuz135/projects): Author of Industrial Foregoing, Functional Storage, FindMe, Dark Mode Everywhere  
+* [**techbrew**](https://www.curseforge.com/members/techbrew/projects): Author of Journeymap  
+* [**Rover656**](https://www.curseforge.com/members/rover656/projects): Maintainer of EnderIO  
+* [**Aizistral**](https://www.curseforge.com/members/Aizistral/projects): Author of No Chat Reports and Enigmatic Legacy  
+* [**EmilyPloszaj**](https://www.curseforge.com/members/EmilyPloszaj/projects): Author of EMI and Trinkets (Fabric)  
+* [**shedaniel**](https://www.curseforge.com/members/EmilyPloszaj/projects): Author of Roughly Enough Items, Cloth Config API, Architectury API.  
+* [**Ellpeck**](https://www.curseforge.com/members/Ellpeck/projects): Author of Actually Additions, Nature's Aura, Pretty Pipes  
+* [**artemisSystem**](https://www.curseforge.com/members/artemisSystem/projects): Author of Better Climbing, Maintainer for Botania  
+* [**Lykrast**](https://www.curseforge.com/members/artemisSystem/projects): Author of Glassential, Defiled Lands, Meet Your Fight, Guns Without Roses  
+</details>
+
+...along with many others!  
+
