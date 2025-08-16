@@ -17,7 +17,7 @@ Too long? Consider taking a look at the [short version](https://youtube.com/shor
 <br>
 
 {{< alert "edit" >}}
-**If you support this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6)!** There are sections for mod developers, pack developers and players, as this would benefit the scene as a whole, so let your voice be heard! *With enough mod developer support, it might be possible to have the votes be held through curseforge itself which would greatly streamline the process.*
+**If you support this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6)!** There are sections for mod developers, pack developers and players, as this would benefit the scene as a whole, so let your voice be heard! *With enough mod developer support, it might be possible to have the votes be held through curseforge/modrinth itself which would greatly streamline the process.*
 
 The mod developer survey [is still up](https://forms.gle/7V18UmafyWrEkxNZA), if you wish to contribute.
 {{< /alert >}}
@@ -108,7 +108,7 @@ So, spread the word, and show your support [on the form](https://forms.gle/fxZJ9
 If you agree with this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6) and share this proposal with others. While mod developer signatures are the most important, it's also important to demonstrate that everyone in the community would agree that this would be beneficial to the modded community. With enough support, it might be possible to have the votes be held through curseforge itself, greatly streamlining the voting process. If you would prefer to have it be hosted by a third party instead, mention it in your vote.
 
 
-Some of the mods whose authors support this proposal include:
+Some of the mods whose owners support this proposal include:
 {{< gallery >}}    
     <img src="https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg" title="Just Enough Items" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/1053/159/256/256/638583716122159056.png" title="KubeJS" class="grid-w20" />
@@ -139,4 +139,3 @@ Some of the mods whose authors support this proposal include:
     <img src="https://media.forgecdn.net/avatars/thumbnails/329/439/256/256/637454990556407279.png" title="Forgery" class="grid-w20" /> 
 {{< /gallery >}}
 ...along with many others!
-
