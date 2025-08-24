@@ -85,7 +85,7 @@ A recurring developer vote is hosted to determine if the Stable Modding Version 
 **Q**: How often would these votes occur? \
 **A**: Once every year seems ideal. This frequency strikes a balance between providing flexibility to account for new updates bringing technical improvements and version longevity.
 
-**Q**: How would we know that casted votes are legitmate? \
+**Q**: How would we know that casted votes are authentic? \
 **A**: In the case that these votes were to be handled by Curseforge or Modrinth, this could be fairly streamlined, as they would have access to more data and could handle this automatically. In the event these votes are done by a third party, the best option would likely be to keep it simple and check mod downloads on Curseforge/Modrinth. Admittedly, the hard part would be finding a balance between ensuring accounts are legitimate and ensuring that noone is being unintentionally disenfranchised.
 
 ### Miscellaneous Questions
