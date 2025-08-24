@@ -34,8 +34,7 @@ A recurring mod developer community vote is hosted to determine a specific Minec
 |:--:|
 | *The process.* |
 
-A recurring developer vote is hosted to determine if the Stable Modding Version should be updated and, if so, to which version. Longterm Mod development is then focused on said version, allowing the version to mature. Users would need to be verified before being able to vote, to ensure that the COLTs vote remains developer focused.
-
+A recurring developer vote is hosted to determine if the Stable Modding Version should be updated and, if so, to which version. Longterm Mod development is then focused on said version, allowing the version to mature. 
 
 ## Benefits 
 ### For Mod Developers
@@ -86,8 +85,8 @@ A recurring developer vote is hosted to determine if the Stable Modding Version 
 **Q**: How often would these votes occur? \
 **A**: Once every year seems ideal. This frequency strikes a balance between providing flexibility to account for new updates bringing technical improvements and version longevity.
 
-**Q**: How would verification work? \
-**A**: In the case that these votes were to be handled by Curseforge or Modrinth, this could be fairly streamlined, as they would have access to more data and could handle this automatically. In the event these votes are done by a third party, the best option would likely be to keep it simple and check mod downloads on Curseforge/Modrinth. Admittedly, the hard part would be finding a balance between ensuring accounts are legitimate and not unintentionally disenfranchising chunks of the mod developer community.
+**Q**: How would we know that casted votes are legitmate? \
+**A**: In the case that these votes were to be handled by Curseforge or Modrinth, this could be fairly streamlined, as they would have access to more data and could handle this automatically. In the event these votes are done by a third party, the best option would likely be to keep it simple and check mod downloads on Curseforge/Modrinth. Admittedly, the hard part would be finding a balance between ensuring accounts are legitimate and ensuring that noone is being unintentionally disenfranchised.
 
 ### Miscellaneous Questions
 **Q**: How would the mod developers be made aware of this proposal? \
