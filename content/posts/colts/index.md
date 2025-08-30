@@ -8,14 +8,14 @@ authors:
       - pansmith  
 summary: "A simple proposal on mod porting, for developers by developers. Now signable!"
 description: "A simple proposal on mod porting, for developers by developers. Now signable!"
-tags: ["proposal"]
+tags: ["proposal", "colts"]
 ---
-
+<!--
 {{< alert icon="tiktok" cardColor="green" >}}
 Too long? Consider taking a look at the [short version](https://youtube.com/shorts/zPUz4kC_BuA).
 {{< /alert >}}
 <br>
-
+--->
 {{< alert "edit" >}}
 **If you support this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6)!** There are sections for mod developers, pack developers and players, as this would benefit the scene as a whole, so let your voice be heard! *With enough mod developer support, it might be possible to have the votes be held through curseforge/modrinth itself which would greatly streamline the process.*
 
@@ -26,15 +26,19 @@ The mod developer survey [is still up](https://forms.gle/7V18UmafyWrEkxNZA), if 
 As per the results of a survey, most content mod developers would prefer having more time to develop their mods over constantly porting their mods to the latest version. The mod developer community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded minecraft community and leading to burnout from [the treadmill](https://notes.highlysuspect.agency/blog/the_treadmill/) of having to constantly keep up with Mojang. 
 
 ## Proposal
-A recurring mod developer community vote is hosted to determine a specific Minecraft version as the **COLTS** (Community LTS) version. This would be useful for neoforge mod developers that develop feature rich (thus time consuming to port and maintain) mods, while still allowing the mod developer community to be able to adapt to technical improvements if the majority of developers believe that the technical improvements are worth the time investment.
+A recurring developer instant runoff vote is hosted to determine the **COLTS** (Community LTS) version. Mod developers can then focus mod development on (or [parity with](https://thepansmith.github.io/posts/colts/#for-mod-developers)) said version, allowing the mod developer community to work and update as a group.
 
-## Details
+### Details
+
 
 | <img src="featured.png" height="200" /> |
 |:--:|
-| *The process.* |
+| *An explanation of instant runoff voting* |
 
-A recurring developer vote is hosted to determine if the Stable Modding Version should be updated and, if so, to which version. Longterm Mod development is then focused on said version, allowing the version to mature. 
+
+Instant runoff voting allows voters to choose multiple candidates, ranked by preference, this allows mod developers to have fine control over their choices. Additionally, votes would also exist for pack developers and mod players; while COLTS will follow the mod developers' vote, allowing the community at large to share their opinion would allow for a more in-depth view of the community's thoughts as a whole, as well as allowing those users to express their thoughts on the matter.
+
+This would be useful for neoforge mod developers that develop feature rich (thus time consuming to port and maintain) mods, as well as mod developers that would benefit from knowing what version the majority of the community prefers (for maintaining). Being a recurring vote, this allows the mod developer community to be able to adapt to technical improvements if the majority of developers believe that the technical improvements are worth the time investment required.
 
 ## Benefits 
 ### For Mod Developers
@@ -72,10 +76,10 @@ A recurring developer vote is hosted to determine if the Stable Modding Version 
 **A**: This proposal simply addresses the communication issue, allowing the mod developer community to easily vote and communicate with each other. This helps saves lots time and energy by ensuring that mod developers will know what versions to update to and maintain their mods on, rather than having to guess what versions will become populated.
 
 ### Regarding Mod Developers on Other Verisons
-**Q**: I'm a mod developer who prefers to keep my mods on the latest patch of Minecraft for vanilla players. How will this affect me? \
+**Q**: I'm a mod developer who prefers to keep my mods on the latest patch of Minecraft for vanilla players. How will this affect my ability to port? \
 **A**: It won't affect you at all. It is fully expected that some mods, such as optimization mods, client-side mods, and server-side mods, will continue to target the latest patches. This proposal is aimed at giving mod developers a unified direction for porting and maintaining their mods.
 
-**Q**: I'm a mod developer who prefers to port more frequently. How would this affect me? \
+**Q**: I'm a mod developer who prefers to port more frequently. How would this affect my ability to port? \
 **A**: Like with the vanilla targeted developers, it won't negatively affect your ability to mod. Rather, this will benefit you as well, as you will know what version the modded community at large considers to be stable, and thus will know which version to target feature backports to. This proposal is aimed at giving large mod developers a unified direction for porting *and maintaining* their mods.
 
 ### Regarding Voting
@@ -85,8 +89,8 @@ A recurring developer vote is hosted to determine if the Stable Modding Version 
 **Q**: How often would these votes occur? \
 **A**: Once every year seems ideal. This frequency strikes a balance between providing flexibility to account for new updates bringing technical improvements and version longevity.
 
-**Q**: How would we know that casted votes are authentic? \
-**A**: In the case that these votes were to be handled by Curseforge or Modrinth, this could be fairly streamlined, as they would have access to more data and could handle this automatically. In the event these votes are done by a third party, the best option would likely be to keep it simple and check mod downloads on Curseforge/Modrinth. Admittedly, the hard part would be finding a balance between ensuring accounts are legitimate and ensuring that noone is being unintentionally disenfranchised.
+**Q**: Are there any measures in place to ensure that casted votes are authentic? \
+**A**: While this hopefully will not need to be implemented, in the case that these votes were to be handled by Curseforge or Modrinth, this could be fairly streamlined, as they would have access to more data and could handle this automatically. In the event these votes are done by a third party, the best option would likely be to keep it simple and check mod downloads on Curseforge/Modrinth. Admittedly, the hard part would be finding a balance between ensuring accounts are legitimate and ensuring that noone is being unintentionally disenfranchised.
 
 ### Miscellaneous Questions
 **Q**: How would the mod developers be made aware of this proposal? \
