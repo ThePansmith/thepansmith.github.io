@@ -8,7 +8,7 @@ authors:
       - pansmith  
 summary: "A simple proposal on mod porting, for developers by developers. Now signable!"
 description: "A simple proposal on mod porting, for developers by developers. Now signable!"
-tags: ["proposal", "colts"]
+tags: ["colts", "proposal"]
 ---
 <!--
 {{< alert icon="tiktok" cardColor="green" >}}
