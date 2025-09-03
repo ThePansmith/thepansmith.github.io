@@ -13,7 +13,7 @@ tags: ["colts"]
 
 {{< alert "edit" >}}
 Vote **[here](https://forms.gle/uRtvjeCVKFHoJVra6)**! It takes less than a minute! <br>
-Pack developers and players can share their thoughts as well!
+Pack developers and players can share their thoughts as well, so share this with others!
 {{< /alert >}}
 
 {{< alert "discord" >}}
