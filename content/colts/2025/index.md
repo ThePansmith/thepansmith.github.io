@@ -6,8 +6,8 @@ showAuthor: false
 authors:
       - pansmith
       - buuz135
-summary: "Voting for COLTS 2025 is now open!"
-description: "Voting for COLTS 2025 is now open!"
+summary: "Voting for COLTS 2025 is now open! Come share your thoughts and work together!"
+description: "Voting for COLTS 2025 is now open! Come share your thoughts and work together!"
 tags: ["colts"]
 ---
 
