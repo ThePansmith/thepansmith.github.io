@@ -5,8 +5,8 @@ draft: true
 showAuthor: false
 authors:
       - pansmith
-summary: "An sexplanation for the uninformed mod player"
-description: "An explanation for the uninformed mod player"
+summary: "A sandy explanation for a common curseforge question"
+description: "A sandy explanation for a common curseforge question"
 tags: ["colts"]
 ---
  
@@ -30,4 +30,4 @@ Now, backporting future content, on the other hand, [is already a thing](https:/
 
 That, combined with some kind of recurring vote for a Community LTS version, so that mod developers can communicate with each other on what versions to settle on, would be the simplest option. It would allow you to play with both your favorite mods and the new vanilla content. So, instead of begging mod developers to port their mods to a version the second it comes out, consider asking them about COLTS instead.
 
-Just make sure no one else has already asked, of course. CurseForge comment sections don't need any more spam.
+(Thumbnail is from Tropicraft)
