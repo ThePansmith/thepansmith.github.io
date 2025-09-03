@@ -64,7 +64,7 @@ This would be useful for neoforge mod developers that develop feature rich (thus
 **A**: Players can be directed to install the [Vanilla Backports](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) mod, or an equivalent.
 
 **Q**: What about some players asking about mod ports? \
-**A**: This is primarily caused by players simply not being aware of the time and energy investment required, and would likely be understanding once they learn of that (along with the aforementioned backport mods). If voting is to be handled by curseforge, they could directly address this in a variety of ways if they wished, from informational videos to notices on the comment box.
+**A**: This is primarily caused by players simply not being aware of the time and energy investment required, and would likely be understanding once they learn of that (along with the aforementioned backport mods). This could be done in a variety of ways, such as [informational posts](https://thepansmith.github.io/colts/why/), videos, posters, and likewise.
 
 **Q**: What would the first COLTS be? \
 **A**: A developer vote would be held like normal, but if you want a prediction, in a previous survey I conducted, a majority of mod developers indicated they would prefer developing on Neoforge 1.21.1 if they could choose the COLTS themselves.
