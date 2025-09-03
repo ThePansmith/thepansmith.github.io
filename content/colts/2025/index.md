@@ -1,5 +1,5 @@
 ---
-title: "COLTS 2025"
+title: "COLTS 2025 "
 date: 2025-09-03
 draft: false
 showAuthor: false
@@ -16,6 +16,9 @@ Vote **[here](https://forms.gle/uRtvjeCVKFHoJVra6)**! It takes less than a minut
 Pack developers and players can share their thoughts as well!
 {{< /alert >}}
 
+{{< alert "discord" >}}
+Join [the discord](https://discord.gg/34KNtwBZ56) to be able to communicate and plan with other mod developers easier.
+{{< /alert >}} <br>
 For those new, the article below details COLTS.
 
 {{< article link="/posts/colts/" showSummary=true compactSummary=false >}}
