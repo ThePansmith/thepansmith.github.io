@@ -17,7 +17,7 @@ Pack developers and players can share their thoughts as well, so share this with
 {{< /alert >}}
 
 {{< alert "discord" >}}
-Join [the discord](https://discord.gg/34KNtwBZ56) to be able to communicate and plan with other mod developers easier.
+Join [the discord](https://discord.gg/34KNtwBZ56) to be able to communicate and plan with other mod developers easier. Other modded minecraft collaborative projects may be hosted as well.
 {{< /alert >}} <br>
 For those new, the article below details COLTS.
 
