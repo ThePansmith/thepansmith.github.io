@@ -12,7 +12,8 @@ tags: ["colts"]
 ---
 
 {{< alert "edit" >}}
-Vote **[here](https://forms.gle/uRtvjeCVKFHoJVra6)**! It takes less than a minute! Pack developers and players can share their thoughts as well!
+Vote **[here](https://forms.gle/uRtvjeCVKFHoJVra6)**! It takes less than a minute! <br>
+Pack developers and players can share their thoughts as well!
 {{< /alert >}}
 
 For those new, the article below details COLTS.
