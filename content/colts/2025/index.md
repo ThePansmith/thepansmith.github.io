@@ -1,7 +1,7 @@
 ---
 title: "COLTS 2025"
-date: 2025-09-01
-draft: true
+date: 2025-09-03
+draft: false
 showAuthor: false
 authors:
       - pansmith

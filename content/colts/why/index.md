@@ -1,7 +1,7 @@
 ---
 title: "Why do mod developers take so long to port?"
 date: 2025-08-29
-draft: true
+draft: false
 showAuthor: false
 authors:
       - pansmith
