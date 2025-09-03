@@ -1,5 +1,5 @@
 ---
-title: "Why do mod developers take so long to port?"
+title: "Why does mod porting take so long?"
 date: 2025-08-29
 draft: false
 showAuthor: false
