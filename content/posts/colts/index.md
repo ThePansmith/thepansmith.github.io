@@ -16,10 +16,16 @@ Too long? Consider taking a look at the [short version](https://youtube.com/shor
 {{< /alert >}}
 <br>
 --->
-{{< alert "edit" >}}
+
+
+<!-- {{< alert "edit" >}}
 **If you support this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6)!** There are sections for mod developers, pack developers and players, as this would benefit the scene as a whole, so let your voice be heard! *With enough mod developer support, it might be possible to have the votes be held through curseforge/modrinth itself which would greatly streamline the process.*
 
 The mod developer survey [is still up](https://forms.gle/7V18UmafyWrEkxNZA), if you wish to contribute.
+{{< /alert >}} -->
+
+{{< alert "edit" >}}
+This vote [is now live](https://thepansmith.github.io/colts/2025)!
 {{< /alert >}}
 
 
