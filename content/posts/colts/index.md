@@ -25,7 +25,7 @@ The mod developer survey [is still up](https://forms.gle/7V18UmafyWrEkxNZA), if 
 {{< /alert >}} -->
 
 {{< alert "edit" >}}
-This vote [is now live](https://thepansmith.github.io/colts/2025)!
+The 2025 vote [is now live](https://thepansmith.github.io/colts/2025)!
 {{< /alert >}}
 
 
