@@ -27,7 +27,7 @@ For those new, the article below details COLTS.
 ## Timing
 A followup post will go out detailing the results of this, so be sure to share this with fellow developers and players so better data can be made. Voting will end on the tenth of September. 
 
-Voting for this cycle will end on the tenth of September. Come next year, a more "typical" time for voting will be picked, but it would be better that the concept is introduced now, rather than waiting an additional three months at minimum (even if it means that this cycle might become somewhat short).
+Voting for this cycle will end on the 14th of September. Come next year, a more "typical" time for voting will be picked, but it would be better that the concept is introduced now, rather than waiting an additional three months at minimum (even if it means that this cycle might become somewhat short).
 
 ## Discussion and following 
 If you would like to discuss the vote, or be notified of future votes, a discord has been created [here](https://discord.gg/34KNtwBZ56). If discord isn't your thing, this blog has a [RSS feed](https://thepansmith.github.io/index.xml) that you can follow.
