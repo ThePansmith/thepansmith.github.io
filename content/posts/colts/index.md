@@ -42,7 +42,7 @@ A recurring developer instant runoff vote is hosted to determine the **COLTS** (
 | *An explanation of instant runoff voting* |
 
 
-Instant runoff voting allows voters to choose multiple candidates, ranked by preference, this allows mod developers to have fine control over their choices. Additionally, votes would also exist for pack developers and mod players; while COLTS will follow the mod developers' vote, allowing the community at large to share their opinion would allow for a more in-depth view of the community's thoughts as a whole, as well as allowing those users to express their thoughts on the matter.
+Instant runoff voting allows voters to choose multiple candidates, ranked by preference, this allows mod developers to have fine control over their choices. Additionally, votes would also exist for pack developers and mod players; while COLTS will follow the mod developers' vote, allowing the community at large to share their opinion would allow for a more in-depth view of the community's thoughts as a whole, as well as allowing those users to express other thoughts related to the matter.
 
 This would be useful for neoforge mod developers that develop feature rich (thus time consuming to port and maintain) mods, as well as mod developers that would benefit from knowing what version the majority of the community prefers (for maintaining). Being a recurring vote, this allows the mod developer community to be able to adapt to technical improvements if the majority of developers believe that the technical improvements are worth the time investment required.
 
