@@ -25,7 +25,7 @@ For those new, the article below details COLTS.
 {{< article link="/posts/colts/" showSummary=true compactSummary=false >}}
 
 ## Timing
-A followup post will go out detailing the results of this, so be sure to share this with fellow developers and players so better data can be made. Voting will end on the tenth of September. 
+A followup post will go out detailing the results of this, so be sure to share this with fellow developers and players so better data can be made. 
 
 Come next year, a more "typical" time for voting will be picked, but it would be better that the concept is introduced now, rather than waiting an additional three months at minimum (even if it means that this cycle might become somewhat short).
 
