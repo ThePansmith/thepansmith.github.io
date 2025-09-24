@@ -129,7 +129,6 @@ Some of the mods whose authors/maintainers support this proposal include:
     <img src="https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png" title="Architectury API" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/156/655/256/256/636640433174784536.png" title="Industrial Foregoing" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/9/144/256/256/635421614078544069.png" title="Journeymap" class="grid-w20" />
-    <img src="https://media.forgecdn.net/avatars/thumbnails/6/770/256/256/635368290959736289.png" title="EnderIO" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/471/410/256/256/637759678200851079.jpeg" title="Functional Storage" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/560/68/256/256/637910636688514454.png" title="No Chat Reports" class="grid-w20" />
     <img src="https://media.forgecdn.net/avatars/thumbnails/545/351/256/256/637878590194850929.png" title="EMI" class="grid-w20" />
@@ -159,7 +158,6 @@ Some of the mods whose authors/maintainers support this proposal include:
 * [**vectorwing**](https://www.curseforge.com/members/vectorwing/projects): Author of Farmer's Delight and Soft Weather.  
 * [**Buuz135**](https://www.curseforge.com/members/buuz135/projects): Author of Industrial Foregoing, Functional Storage, FindMe, Dark Mode Everywhere  
 * [**techbrew**](https://www.curseforge.com/members/techbrew/projects): Author of Journeymap  
-* [**Rover656**](https://www.curseforge.com/members/rover656/projects): Maintainer of EnderIO  
 * [**Aizistral**](https://www.curseforge.com/members/Aizistral/projects): Author of No Chat Reports and Enigmatic Legacy  
 * [**EmilyPloszaj**](https://www.curseforge.com/members/EmilyPloszaj/projects): Author of EMI and Trinkets (Fabric)  
 * [**shedaniel**](https://www.curseforge.com/members/EmilyPloszaj/projects): Author of Roughly Enough Items, Cloth Config API, Architectury API.  
