@@ -11,7 +11,7 @@ description: "A simple proposal on mod porting, for developers by developers. No
 tags: ["colts", "proposal"]
 ---
 
-As per the results of a survey, most content mod developers would prefer having more time to develop their mods over constantly porting their mods to the latest version. The mod developer community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded minecraft community and leading to burnout from [the treadmill](https://notes.highlysuspect.agency/blog/the_treadmill/) of having to constantly keep up with Mojang. 
+As per the results of a survey and general consensus, most content mod developers would prefer having more time to develop their mods over constantly porting their mods to the latest version. The mod developer community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded minecraft community and leading to burnout from [the treadmill](https://notes.highlysuspect.agency/blog/the_treadmill/) of having to constantly keep up with Mojang. 
 
 ## Proposal
 A recurring developer instant runoff vote is hosted to determine the **COLTS** (Community LTS) version. Mod developers can then focus mod development on (or [parity with](https://thepansmith.github.io/posts/colts/#for-mod-developers)) said version, allowing the mod developer community to work and update as a group.
