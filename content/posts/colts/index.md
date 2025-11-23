@@ -10,24 +10,6 @@ summary: "A simple proposal on mod porting, for developers by developers. Now si
 description: "A simple proposal on mod porting, for developers by developers. Now signable!"
 tags: ["colts", "proposal"]
 ---
-<!--
-{{< alert icon="tiktok" cardColor="green" >}}
-Too long? Consider taking a look at the [short version](https://youtube.com/shorts/zPUz4kC_BuA).
-{{< /alert >}}
-<br>
---->
-
-
-<!-- {{< alert "edit" >}}
-**If you support this proposal, sign [here](https://forms.gle/fxZJ9EhCopfLh8nU6)!** There are sections for mod developers, pack developers and players, as this would benefit the scene as a whole, so let your voice be heard! *With enough mod developer support, it might be possible to have the votes be held through curseforge/modrinth itself which would greatly streamline the process.*
-
-The mod developer survey [is still up](https://forms.gle/7V18UmafyWrEkxNZA), if you wish to contribute.
-{{< /alert >}} -->
-
-{{< alert "edit" >}}
-The 2025 vote [is now live](https://thepansmith.github.io/colts/2025)!
-{{< /alert >}}
-
 
 As per the results of a survey, most content mod developers would prefer having more time to develop their mods over constantly porting their mods to the latest version. The mod developer community currently suffers from a lack of clear communication on where modders are gathered, fragmenting the modded minecraft community and leading to burnout from [the treadmill](https://notes.highlysuspect.agency/blog/the_treadmill/) of having to constantly keep up with Mojang. 
 
