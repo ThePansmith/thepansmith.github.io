@@ -12,14 +12,10 @@ tags: ["colts"]
 ---
 
 {{< alert "edit" >}}
-Vote **[here](https://forms.gle/uRtvjeCVKFHoJVra6)**! It takes less than a minute! <br>
-Pack developers and players can share their thoughts as well, so share this with others!
+Cancelled, the issues of reach and range still apply; meanwhile, more straightforward options like an official neoforge LTS are possible. <br>
+For transparency's sake, [here](https://docs.google.com/spreadsheets/d/1L01_WRRqlCOHII6ljFjcOXwdAkh7lmavD4fB4mh0x1k/edit?resourcekey=&gid=1535696895#gid=1535696895) is the data gathered, do with it as you wish.
 {{< /alert >}}
 
-{{< alert "discord" >}}
-Join [the discord](https://discord.gg/34KNtwBZ56) to be able to communicate and plan with other mod developers easier. <br>
-Other modded minecraft collaborative projects may be hosted as well.
-{{< /alert >}} <br>
 For those new, the article below details COLTS.
 
 {{< article link="/posts/colts/" showSummary=true compactSummary=false >}}
